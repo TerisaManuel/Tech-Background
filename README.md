@@ -1,4 +1,4 @@
-<h1>Hi, I'm Terisa! <br/><a href=https://github.com/Terisa Manuel1>TAspiring Tech Student</a>,
+<h1>Hi, I'm Terisa! <br/><a href=https://github.com/Terisa Manuel1>Aspiring Tech Student</a>,
 
  
 
