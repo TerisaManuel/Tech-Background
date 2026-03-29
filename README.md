@@ -1,35 +1,32 @@
-# 🖥️ Hardware & Technical Experience
+# Terisa Manuel — Tech Portfolio
 
-Hi, I'm Terisa — this section documents my hands-on technical skills developed during the Rise by Talent programme.
+Hi, I'm Terisa — an aspiring IT support professional based in Auckland, NZ.
 
----
-
-## 🔧 What I Did
-
-### PC Teardown & Identification
-- Opened a desktop computer and identified internal components
-- Documented each part with before, during, and after photos
-- Learned the purpose and function of each component
-
-### Command Prompt Practical
-- Used `ipconfig` to identify network configuration
-- Used `ping` to test network connectivity and troubleshoot connections
-- Documented results and what the outputs mean
-
-### Ethernet Cable Build
-- Built a functioning ethernet cable from scratch
-- Followed T568B wiring standard
-- Tested for connectivity after completion
+I show up, I get it done, and I care about doing things properly. This portfolio
+documents everything I've built, learned, and proven during the Rise by Talent
+programme — hands-on technical work, AI thinking, and real workplace readiness.
 
 ---
 
-## 🛠️ Troubleshooting Log
+## Portfolio
 
-| Issue | What I Tried | Outcome |
-|---|---|---|
-| [describe issue] | [steps taken] | [how it was resolved] |
+| Section | What's inside |
+|---|---|
+| [🖥️ Tech & Hardware](./01-tech/) | PC teardown, command prompt, ethernet cable build, troubleshooting log |
+| [🤖 AI Thinking](./02-ai/) | Business case study, Loom walkthrough, n8n workflow, presentation |
+| [🤝 Talent](./03-talent/) | Workplace readiness, testimonial, evidence of human skills |
+| [💡 Personal Project](./04-personal/) | Homeift App — built from idea to working product |
+| [📝 Reflections](./05-reflections/) | What I learned, challenges I overcame, how I've grown |
 
 ---
 
-## 📸 Photos
-See the `photos/` folder for before, during, and after documentation.
+## Goal
+
+Securing an entry-level IT support role where I can apply my technical skills,
+problem-solving mindset, and drive to keep learning.
+
+---
+
+## Connect
+
+- 🔗 GitHub: [github.com/TerisaManuel](https://github.com/TerisaManuel)
