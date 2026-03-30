@@ -36,7 +36,7 @@ internet due to an incorrect default gateway.
 **Tool used:** Cisco Packet Tracer — industry standard network simulation software
 
 ### Step 1 — Network Setup
-![Network Setup](./packet-tracer/01-network-setup.png)
+![Network Setup](file:///C:/Users/terisa.manuel/OneDrive%20-%20Talent%20International/Network%20simulation%20packet%20tracer.pdf)
 
 Built a home network simulation with a wireless router and two laptops.
 
