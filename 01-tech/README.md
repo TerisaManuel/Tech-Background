@@ -7,7 +7,7 @@ This section proves real technical capability, not just theory.
 ## 🎥 Laptop Disassembly & Reassembly
 
 A full video walkthrough of disassembling and reassembling a Lenovo V14-IGL
-(Model: 82C2), identifying every internal component and explaining its function.
+(Model: 82C2), identifying the internal component.
 
 🎬 [Watch the full video here](https://youtu.be/tm8huvp6ip8?si=lZnC4YoHjupjtlMy)
 
