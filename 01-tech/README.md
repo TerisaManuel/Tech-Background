@@ -4,33 +4,50 @@ This section proves real technical capability, not just theory.
 
 ---
 
-## 📸 Photo Documentation
+## 🎥 Laptop Disassembly & Reassembly
 
-Before, during, and after photos from opening a desktop computer
-and identifying internal components.
+A full video walkthrough of disassembling and reassembling a Lenovo V14-IGL
+(Model: 82C2), identifying every internal component and explaining its function.
 
-See the `photos/` folder for full documentation.
+🎬 [Watch the full video here](https://youtu.be/tm8huvp6ip8?si=lZnC4YoHjupjtlMy)
 
-| Stage | What it shows |
-|---|---|
-| Before | Computer closed, external view |
-| During | Inside the computer, components visible |
-| After | Reassembled and functioning |
+**What the video covers:**
+- Pre-disassembly safety checks — powered off, unplugged, face down
+- Removing the bottom panel and identifying internal components
+- Heat pipe — draws heat away from the Intel Celeron N4020 processor
+- Battery (35Wh lithium-ion) — disconnected first to cut all power to the board
+- Motherboard — the central circuit board everything connects through
+- RAM (4GB DDR4-2400) — soldered directly, cannot be upgraded
+- WiFi card — handles all wireless connectivity
+- M.2 SSD slot — where the operating system and files are stored
+- Full reassembly and power on to verify everything is functioning
+
+**Why this matters:** Taking apart and rebuilding a laptop while explaining every
+component proves real hands-on technical ability. Anyone can read about a
+motherboard — this shows I can identify one, explain it, and work around it safely.
 
 ---
 
-## 🔍 Problem & Solution — Command Prompt
+## 🔍 Problem & Solution — Cisco Packet Tracer
 
-**Problem:** Needed to identify network configuration and test connectivity.
+**Problem:** A laptop is connected to a home network but cannot access the
+internet due to an incorrect default gateway.
+
+**Tool used:** Cisco Packet Tracer — industry standard network simulation software
 
 **Solution:**
+- Built a home network simulation with a wireless router and two laptops
+- Deliberately misconfigured the default gateway on Laptop 1 to simulate
+  a real-world misconfiguration
+- Used `ipconfig` to identify the incorrect gateway
+- Used `ping` to confirm the device could not reach the router
+- Corrected the gateway and verified connectivity using `ping` — passed
 
-- Used `ipconfig` to display the device's IP address, subnet mask, and default gateway
-- Used `ping` to test whether the device could reach another host on the network
-- Identified and documented what each output means in a real support context
+See the `packet-tracer/` folder for screenshots of the problem and solution.
 
-**Why this matters:** These are day-one IT support tasks. Being able to run and
-read these commands proves I can troubleshoot network issues independently.
+**Why this matters:** This is a real scenario IT support technicians face daily.
+Being able to identify, simulate, and fix a network misconfiguration proves I
+can troubleshoot systematically — not just guess.
 
 ---
 
@@ -45,7 +62,8 @@ Step-by-step build of a functioning ethernet cable from scratch:
 5. Tested cable for connectivity — passed
 
 **Why this matters:** Physical network skills are foundational for IT support.
-Building a cable from scratch proves I understand how networks are physically connected.
+Building a cable from scratch proves I understand how networks are physically
+connected.
 
 ---
 
