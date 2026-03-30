@@ -35,15 +35,36 @@ internet due to an incorrect default gateway.
 
 **Tool used:** Cisco Packet Tracer — industry standard network simulation software
 
-**Solution:**
-- Built a home network simulation with a wireless router and two laptops
-- Deliberately misconfigured the default gateway on Laptop 1 to simulate
-  a real-world misconfiguration
-- Used `ipconfig` to identify the incorrect gateway
-- Used `ping` to confirm the device could not reach the router
-- Corrected the gateway and verified connectivity using `ping` — passed
+### Step 1 — Network Setup
+![Network Setup](./packet-tracer/01-network-setup.png)
 
-See the `packet-tracer/` folder for screenshots of the problem and solution.
+Built a home network simulation with a wireless router and two laptops.
+
+### Step 2 — The Problem
+![Wrong Gateway](./packet-tracer/02-wrong-gateway.png)
+
+Deliberately set the wrong default gateway on Laptop 1 to simulate a real
+misconfiguration.
+
+### Step 3 — ipconfig Shows the Issue
+![ipconfig fail](./packet-tracer/03-ipconfig-problem.png)
+
+Running `ipconfig` confirms the incorrect gateway is assigned.
+
+### Step 4 — Ping Fails
+![Ping fail](./packet-tracer/04-ping-fail.png)
+
+Running `ping 192.168.0.1` fails — the laptop cannot reach the router.
+
+### Step 5 — Fix Applied
+![Fix](./packet-tracer/05-gateway-corrected.png)
+
+Default gateway corrected to the right address.
+
+### Step 6 — Ping Succeeds
+![Ping success](./packet-tracer/06-ping-success.png)
+
+Running `ping 192.168.0.1` now succeeds — connectivity restored.
 
 **Why this matters:** This is a real scenario IT support technicians face daily.
 Being able to identify, simulate, and fix a network misconfiguration proves I
@@ -53,8 +74,22 @@ can troubleshoot systematically — not just guess.
 
 ## 🔧 Build Walkthrough — Ethernet Cable
 
-Step-by-step build of a functioning ethernet cable from scratch:
+### Before — Raw Cable
+![Ethernet Before](./photos/04-ethernet-before.jpg)
 
+Unstripped cable before any work begins.
+
+### During — Wiring Arrangement
+![Ethernet During](./photos/05-ethernet-during.jpg)
+
+Wires arranged in T568B standard order before crimping.
+
+### After — Completed & Tested
+![Ethernet After](./photos/06-ethernet-after.jpg)
+
+Crimped and tested — passed.
+
+Step-by-step:
 1. Stripped the outer casing to expose the inner wires
 2. Arranged wires in T568B standard order
 3. Trimmed wires to even length and inserted into RJ45 connector
