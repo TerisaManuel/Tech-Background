@@ -1,6 +1,6 @@
 # Terisa Manuel — Tech Portfolio
 
-##About Me
+About Me
 
 [2-3 sentences about who you are and your background here.]
 
@@ -14,7 +14,7 @@
 
 ---
 
-##Strengths
+Strengths
 
 - [Strength 1]
 - [Strength 2]
@@ -23,7 +23,7 @@
 
 ---
 
-##Skills
+Skills
 
 | Technical Skills | Tools & Platforms |
 |---|---|
@@ -35,7 +35,7 @@
 
 ---
 
-##Portfolio Sections
+Portfolio Sections
 
 | Section | What's inside |
 |---|---|
@@ -47,7 +47,7 @@
 
 ---
 
-##Goal
+Goal
 
 [One bold sentence about what you are working toward.]
 
