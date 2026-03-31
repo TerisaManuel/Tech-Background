@@ -1,10 +1,10 @@
-# [Your Name] — Tech Portfolio
+# Terisa Manuel — Tech Portfolio
 
 ## 👋 About Me
 
-[Write 2-3 sentences about who you are and your background here.]
+[2-3 sentences about who you are and your background here.]
 
-[Write 1-2 sentences about why you chose IT and what drew you to this path.]
+[1-2 sentences about why you chose IT and what drew you to this path.]
 
 ---
 
