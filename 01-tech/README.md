@@ -102,14 +102,6 @@ connected.
 
 ---
 
-## 🛠️ Troubleshooting Log
-
-| Issue | What I tried | Outcome |
-|---|---|---|
-| [Add your real example] | [Steps you took] | [How it was resolved] |
-
----
-
 ## 💡 Key Takeaway
 
 Every task here was done hands-on. I didn't just read about it —
