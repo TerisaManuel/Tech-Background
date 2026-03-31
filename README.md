@@ -1,6 +1,6 @@
 # Terisa Manuel — Tech Portfolio
 
-## 👋 About Me
+##About Me
 
 [2-3 sentences about who you are and your background here.]
 
@@ -8,13 +8,13 @@
 
 ---
 
-## 🎯 Goals
+##Goals
 
 [Write what you are working toward — what kind of role, what kind of impact you want to make.]
 
 ---
 
-## 💪 Strengths
+##Strengths
 
 - [Strength 1]
 - [Strength 2]
@@ -23,7 +23,7 @@
 
 ---
 
-## 🛠️ Skills
+##Skills
 
 | Technical Skills | Tools & Platforms |
 |---|---|
@@ -35,19 +35,19 @@
 
 ---
 
-## 📁 Portfolio Sections
+##Portfolio Sections
 
 | Section | What's inside |
 |---|---|
-| [🖥️ Hardware & Technical Experience](./01-hardware/) | PC teardown, Packet Tracer, ethernet cable, troubleshooting |
-| [📁 Projects](./02-projects/) | Capstone + personal projects |
-| [🎤 Presentations](./03-presentations/) | AI case study, Loom walkthroughs |
-| [📝 Reflections](./04-reflections/) | What I learned, challenges, growth |
-| [🔗 Other](./05-other/) | Social links, extra experience |
+| [Hardware & Technical Experience](./01-hardware/) | PC teardown, Packet Tracer, ethernet cable, troubleshooting |
+| [Projects](./02-projects/) | Capstone + personal projects |
+| [Presentations](./03-presentations/) | AI case study, Loom walkthroughs |
+| [Reflections](./04-reflections/) | What I learned, challenges, growth |
+| [Other](./05-other/) | Social links, extra experience |
 
 ---
 
-## 🎯 Goal
+##Goal
 
 [One bold sentence about what you are working toward.]
 
