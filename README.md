@@ -1,32 +1,59 @@
-# Terisa Manuel — Tech Portfolio
+# [Your Name] — Tech Portfolio
 
-Hi, I'm Terisa — an aspiring IT support professional based in Auckland, NZ.
+## 👋 About Me
 
-I show up, I get it done, and I care about doing things properly. This portfolio
-documents everything I've built, learned, and proven during the Rise by Talent
-programme — hands-on technical work, AI thinking, and real workplace readiness.
+[Write 2-3 sentences about who you are and your background here.]
+
+[Write 1-2 sentences about why you chose IT and what drew you to this path.]
 
 ---
 
-## Portfolio
+## 🎯 Goals
+
+[Write what you are working toward — what kind of role, what kind of impact you want to make.]
+
+---
+
+## 💪 Strengths
+
+- [Strength 1]
+- [Strength 2]
+- [Strength 3]
+- [Strength 4]
+
+---
+
+## 🛠️ Skills
+
+| Technical Skills | Tools & Platforms |
+|---|---|
+| Hardware & PC troubleshooting | Cisco Packet Tracer |
+| Network configuration | Microsoft 365 |
+| Command line (ipconfig, ping) | n8n |
+| IP addressing & subnetting | GitHub |
+| SOHO network setup | CapCut |
+
+---
+
+## 📁 Portfolio Sections
 
 | Section | What's inside |
 |---|---|
-| [🖥️ Tech & Hardware](./01-tech/) | PC teardown, command prompt, ethernet cable build, troubleshooting log |
-| [🤖 AI Thinking](./02-ai/) | Business case study, Loom walkthrough, n8n workflow, presentation |
-| [🤝 Talent](./03-talent/) | Workplace readiness, testimonial, evidence of human skills |
-| [💡 Personal Project](./04-personal/) | Homeift App — built from idea to working product |
-| [📝 Reflections](./05-reflections/) | What I learned, challenges I overcame, how I've grown |
+| [🖥️ Hardware & Technical Experience](./01-hardware/) | PC teardown, Packet Tracer, ethernet cable, troubleshooting |
+| [📁 Projects](./02-projects/) | Capstone + personal projects |
+| [🎤 Presentations](./03-presentations/) | AI case study, Loom walkthroughs |
+| [📝 Reflections](./04-reflections/) | What I learned, challenges, growth |
+| [🔗 Other](./05-other/) | Social links, extra experience |
 
 ---
 
-## Goal
+## 🎯 Goal
 
-Securing an entry-level IT support role where I can apply my technical skills,
-problem-solving mindset, and drive to keep learning.
+[One bold sentence about what you are working toward.]
 
 ---
 
-## Connect
+## 🔗 Connect
 
-- 🔗 GitHub: [github.com/TerisaManuel](https://github.com/TerisaManuel)
+- GitHub: [github.com/TerisaManuel](https://github.com/TerisaManuel)
+- LinkedIn: [Add your LinkedIn link here]
