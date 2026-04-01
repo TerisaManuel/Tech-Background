@@ -50,8 +50,8 @@ My goal is to secure an entry-level role in IT support — whether that is a hel
 
 | Section | What's inside |
 |---|---|
-| [📁 Projects](./02-projects/) | Capstone + personal projects |
-| [🖥️ Hardware & Technical Experience](./03-hardware/) | PC teardown, Packet Tracer, troubleshooting |
+| [🚀 Check out my work](./02-projects/) | Capstone + personal projects |
+| 🖥️ See me work with real hardware](./03-hardware/) | PC teardown, Packet Tracer, troubleshooting |
 | [🎤 Presentations](./04-presentations/) | AI case study, Loom walkthroughs |
 | [📝 Reflections](./05-reflections/) | What I learned, challenges, growth |
 
