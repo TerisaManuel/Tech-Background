@@ -5,7 +5,7 @@ Every task here was done hands-on, documented, and can be explained step by step
 
 ---
 
-## 📸 1. Photo Documentation — Laptop Disassembly & Reassembly
+## 📸 Photo Documentation — Laptop Disassembly & Reassembly
 
 **Device:** Lenovo V14-IGL (Model: 82C2)
 
@@ -30,7 +30,7 @@ identify one, explain it, and work around it safely.
 
 ---
 
-## 🔍 2. Problem & Solution — Cisco Packet Tracer
+## 🔍 Problem & Solution — Cisco Packet Tracer
 
 **Tool:** Cisco Packet Tracer — industry standard network simulation software
 
@@ -56,26 +56,7 @@ network problem systematically — not just guess.
 
 ---
 
-## 🔧 3. Build Walkthrough — Ethernet Cable
-
-A step-by-step build of a functioning ethernet cable from scratch.
-
-**Steps:**
-1. Stripped the outer casing to expose the inner wires
-2. Arranged wires in T568B standard order
-3. Trimmed wires to even length and inserted into RJ45 connector
-4. Crimped the connector using a crimping tool
-5. Tested cable for connectivity — passed
-
-See the `photos/` folder for before, during and after photos.
-
-**Why this matters:** Physical network skills are foundational for IT support.
-Building a cable from scratch proves I understand how networks are physically
-connected.
-
----
-
-## 🛠️ 4. Troubleshooting Log
+## 🛠️ Troubleshooting Log
 
 | Issue | What I tried | Outcome |
 |---|---|---|
