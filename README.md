@@ -2,9 +2,9 @@
 
 ## 👋 About Me
 
-I'm Terisa Manuel, an aspiring IT support professional based in Auckland, NZ, currently completing the Rise by Talent programme with Academy XI. Through this programme I have built hands-on technical skills across hardware, networking, and AI automation — skills I can demonstrate, not just talk about.
+I'm Terisa Manuel, an aspiring IT support professional based in Auckland, NZ, currently completing the Rise by Talent programme with Academy XI. Through this programme I have built hands-on technical skills across hardware, networking, and AI automation skills I can demonstrate, not just talk about.
 
-[Write 1-2 sentences about why you chose IT and what drew you to this path.]
+I chose IT because I enjoy troubleshooting — working through a problem systematically until I find the fix. I am drawn to work where I can help people, solve real problems, and keep learning every single day.
 
 ---
 
