@@ -9,7 +9,7 @@
 ---
 
 <details>
-<summary>👋 About Me</summary>
+<summary>👋 Let me introduce myself</summary>
 
 I'm Terisa, an aspiring IT support professional based in Auckland, NZ, currently completing the Rise by Talent programme. Through this programme I have built hands-on technical skills across hardware, networking, and AI automation — skills I can demonstrate, not just talk about.
 
