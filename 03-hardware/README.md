@@ -47,7 +47,7 @@ technician encounters.
 - Used `ping` to confirm connectivity had failed
 - Corrected the gateway and verified connectivity was restored using `ping`
 
-🎬 [Watch the Loom walkthrough here](YOUR-LOOM-LINK-HERE)
+🎬 [Watch the Loom walkthrough here](https://www.loom.com/share/4f58dd1fd5104b54a9f2f609cc92fb0b)
 
 See the `packet-tracer/` folder for all screenshots.
 
