@@ -25,9 +25,6 @@ identifying every internal component and explaining its function.
 - M.2 SSD slot — where the operating system and files are stored
 - Full reassembly and power on to verify everything is functioning
 
-**Why this matters:** Anyone can read about a motherboard — this shows I can
-identify one, explain it, and work around it safely.
-
 ---
 
 ## 🔍 Problem & Solution — Cisco Packet Tracer
