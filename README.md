@@ -40,4 +40,4 @@ My goal is to secure an entry-level role in IT support — whether that is a hel
 ## 🔗 Connect
 
 - GitHub: [github.com/TerisaManuel](https://github.com/TerisaManuel)
-- LinkedIn: [Add your LinkedIn link here]
+- LinkedIn: [https://www.linkedin.com/in/terisa-manuel-03b16a3b1/]
