@@ -7,18 +7,38 @@ and how I have grown throughout the Rise by Talent programme.
 
 ## 💡 What I Learned
 
-- [Write what you learned about hardware and technical skills]
-- [Write what you learned about networking and troubleshooting]
-- [Write what you learned about AI and automation]
-- [Write what you learned about yourself as a learner]
+- Hardware — how to safely disassemble and reassemble a laptop, identify every internal component, and understand what each one does
+- Networking — how IP addresses, subnet masks, and default gateways work together, and how to diagnose connectivity issues using ipconfig and ping
+- AI and automation — how to identify a real business problem and design an AI-powered solution to solve it using n8n and automation workflows
+- About myself — I learn best by doing, not just reading. Hands-on experience is where things click for me
 
 ---
 
 ## 🧱 Challenges I Overcame
 
-- [Describe a challenge you faced and how you pushed through it]
-- [Describe a technical challenge and how you solved it]
-- [Describe a moment you were stuck and what you did next]
+- Getting comfortable with tools I had never used before — Cisco Packet Tracer, GitHub, n8n — and pushing through the learning curve instead of giving up
+- Troubleshooting technical problems where the answer wasn't obvious — learning to be systematic instead of guessing
+- Balancing multiple deliverables at once across hardware, AI, and personal projects
+
+
+How I've Grown:
+
+- My confidence has grown — I can now walk into a technical conversation and hold my own
+- I think differently about technology — I now see it as a problem-solving tool, not something intimidating
+- I have gone from zero to being able to build, troubleshoot, and document real technical work
+
+
+If I Did It Again:
+
+I would document everything from day one — the early brainstorms and mistakes are just as valuable as the finished work
+
+
+What's Next:
+
+Securing my first IT support role and continuing to build on everything I have proven through this programme
+Working toward CompTIA A+ certification to back up my practical skills with an industry recognised qualification
+
+
 
 ---
 
