@@ -49,9 +49,6 @@ technician encounters.
 
 [![Cisco Packet Tracer Walkthrough](./SOHO.png)](https://www.loom.com/share/4f58dd1fd5104b54a9f2f609cc92fb0b)
 
-**Why this matters:** This proves I can simulate, identify, and fix a real
-network problem systematically — not just guess.
-
 ---
 
 ## 🛠️ Troubleshooting Log
