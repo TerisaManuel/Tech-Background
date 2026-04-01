@@ -23,6 +23,8 @@ An AI-powered workflow built across three pillars:
 
 **Tools used:** n8n, AI writing tools, Microsoft 365, cloud storage
 
+[![AI Business Case Study Presentation](./AI%20BUSINESS%20CASE%20STUDY.png)](https://www.loom.com/share/bd798a799fcc47fa93fd469344a44ee9)
+
 ---
 
 ## 🎬 Loom Walkthrough — Brainstorm & Thinking Process
