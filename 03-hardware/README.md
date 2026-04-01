@@ -47,7 +47,8 @@ technician encounters.
 - Used `ping` to confirm connectivity had failed
 - Corrected the gateway and verified connectivity was restored using `ping`
 
-[![Cisco Packet Tracer Walkthrough](https://cdn.loom.com/sessions/thumbnails/4f58dd1fd5104b54a9f2f609cc92fb0b-with-play.gif)](https://www.loom.com/share/4f58dd1fd5104b54a9f2f609cc92fb0b)
+[![Thumbnail Description](loom-thumbnail-url.jpg)](https://www.loom.com/share/4f58dd1fd5104b54a9f2f609cc92fb0b)
+
 
 **Why this matters:** This proves I can simulate, identify, and fix a real
 network problem systematically — not just guess.
