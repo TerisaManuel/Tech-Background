@@ -10,16 +10,13 @@ I chose IT because I enjoy troubleshooting — working through a problem systema
 
 ## 🎯 Goals
 
-[Write what you are working toward — what kind of role, what kind of impact you want to make.]
+My goal is to secure an entry-level role in IT support — whether that is a help desk, IT support, or service desk analyst position — where I can apply my technical skills, troubleshoot real problems, and grow into a long-term career in tech.
 
 ---
 
 ## 💪 Strengths
 
-- [Strength 1]
-- [Strength 2]
-- [Strength 3]
-- [Strength 4]
+
 
 ---
 
