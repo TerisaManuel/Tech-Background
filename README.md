@@ -43,10 +43,6 @@
 | [🖥️ Hardware & Technical Experience](./01-tech/) | PC teardown, Packet Tracer, troubleshooting |
 | [🎤 Presentations](./03-presentations/) | AI case study, Loom walkthroughs |
 | [📝 Reflections](./04-reflections/) | What I learned, challenges, growth |
-| [🔗 Other](./05-other/) | Social links, extra experience |
-
----
-
 
 ---
 
