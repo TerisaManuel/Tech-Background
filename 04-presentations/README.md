@@ -37,14 +37,6 @@ applied throughout.
 
 ---
 
-## 🎬 Loom Walkthrough — Cisco Packet Tracer
-
-A video walkthrough of the SOHO network build and troubleshooting exercise
-in Cisco Packet Tracer.
-
-🎬 [Watch the Loom walkthrough here](YOUR-PACKET-TRACER-LOOM-LINK-HERE)
-
----
 
 ## 💡 Key Takeaway
 
