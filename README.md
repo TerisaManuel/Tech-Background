@@ -20,7 +20,7 @@ I chose IT because I enjoy troubleshooting — working through a problem systema
 ---
 
 <details>
-<summary>🔥 Here's what drives me>
+<summary>🔥 Here's what drives me</summary>
 
 My goal is to secure an entry-level role in IT support — whether that is a help desk, IT support, or service desk analyst position — where I can apply my technical skills, troubleshoot real problems, and grow into a long-term career in tech.
 
