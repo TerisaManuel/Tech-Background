@@ -6,7 +6,7 @@ and how I have grown throughout the Rise by Talent programme.
 ---
 
 <details>
-<summary>💡 What did I actually learn?</summary>
+<summary>🔑 The skills I walked away with</summary>
 <br>
 
 - **Hardware** — how to safely disassemble and reassemble a laptop, identify every internal component, and understand what each one does
@@ -19,7 +19,7 @@ and how I have grown throughout the Rise by Talent programme.
 ---
 
 <details>
-<summary>🧱 What did I have to push through?</summary>
+<summary>⚡ The moments that tested me</summary>
 <br>
 
 - Getting comfortable with tools I had never used before — Cisco Packet Tracer, GitHub, n8n — and pushing through the learning curve instead of giving up
