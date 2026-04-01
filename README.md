@@ -16,11 +16,11 @@ My goal is to secure an entry-level role in IT support — whether that is a hel
 
 ## 💪 Strengths
 
-- **Communicator** — I can explain technical issues in plain language to anyone, technical or not
-- **Reliable** — I show up, I get it done, and I follow through every time
-- **Calm under pressure** — when something breaks, I stay focused and work the problem systematically
-- **Curious** — I always want to understand how things work, not just that they work
-- **Detail-oriented** — I care about doing things properly and I don't cut corners
+- **Communicator**: I can explain technical issues in plain language to anyone, technical or not
+- **Reliable**: I show up, I get it done, and I follow through every time
+- **Calm under pressure**: when something breaks, I stay focused and work the problem systematically
+- **Curious**:I always want to understand how things work, not just that they work
+- **Detail-oriented**: I care about doing things properly and I don't cut corners
 
 
 ---
