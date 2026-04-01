@@ -4,7 +4,7 @@ This section documents my AI case study presentation and video walkthroughs.
 
 ---
 
-## 🎬 AI Business Case Study (Loom Video)
+## 🎬 The Brainstorm — Before the Build
 
 [![AI Business Case Study — Brainstorm & Thinking Process](./Brainstorm.png)](https://www.loom.com/share/f100954b526a415fb29d579145962702)
 
@@ -20,12 +20,12 @@ applied throughout.
 
 ---
 
-## 🤖 AI Business Case Study — Global Charity Automation
+## 🤖 See the Full AI Solution in Action
 
 [![AI Business Case Study Presentation](./AI%20BUSINESS%20CASE%20STUDY.png)](https://www.loom.com/share/bd798a799fcc47fa93fd469344a44ee9)
 
 <details>
-<summary>👇 Read the full problem and solution</summary>
+<summary>🌏 See how AI helped a charity do more with less</summary>
 <br>
 
 A group project presenting an AI-powered solution for a global charity
