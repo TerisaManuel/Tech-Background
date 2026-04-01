@@ -42,7 +42,7 @@ My goal is to secure an entry-level role in IT support — whether that is a hel
 ---
 
 <details>
-<summary>📁 Portfolio Sections</summary>
+<summary>📁 Here's what I've built</summary>
 
 | Section | What's inside |
 |---|---|
