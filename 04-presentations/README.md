@@ -3,7 +3,7 @@
 This section documents my AI case study presentation and video walkthroughs.
 
 ---
-## 🎬 Loom Walkthrough — Brainstorm & Thinking Process
+## 🎬AI Business Case Study (Loom Video)
 
 A video walkthrough of the thinking behind the solution — the why behind
 every decision, the manual workflow before automation, and the tech mindset
@@ -11,6 +11,7 @@ applied throughout.
 
 [![AI Business Case Study — Brainstorm & Thinking Process](./Brainstorm.png)](https://www.loom.com/share/f100954b526a415fb29d579145962702)
 
+---
 
 
 ## 🤖 AI Business Case Study — Global Charity Automation
