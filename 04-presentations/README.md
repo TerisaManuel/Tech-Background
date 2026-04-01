@@ -44,12 +44,6 @@ in Cisco Packet Tracer.
 
 ---
 
-## 📊 Presentation Slides
-
-👉 [View presentation slides](./slides/)
-
----
-
 ## 💡 Key Takeaway
 
 Every presentation here demonstrates not just what was built, but why every
