@@ -5,18 +5,16 @@ Every task here was done hands-on, documented, and can be explained step by step
 
 ---
 
-<details>
-<summary>📸 Photo Documentation — Laptop Disassembly & Reassembly</summary>
-<br>
+## 📸 Photo Documentation — Laptop Disassembly & Reassembly
 
 **Device:** Lenovo V14-IGL (Model: 82C2)
 
-A full video walkthrough of disassembling and reassembling a laptop,
-identifying every internal component and explaining its function.
-
 [![Laptop Disassembly & Component Identification](./Laptop%20Disassembly.png)](https://youtu.be/tm8huvp6ip8?si=lZnC4YoHjupjtlMy)
 
-**What the video covers:**
+<details>
+<summary>What the video covers</summary>
+<br>
+
 - Pre-disassembly safety checks — powered off, unplugged, face down
 - Removing the bottom panel and identifying internal components
 - Heat pipe — draws heat away from the Intel Celeron N4020 processor
@@ -31,8 +29,12 @@ identifying every internal component and explaining its function.
 
 ---
 
+## 🔍 Problem & Solution — Cisco Packet Tracer
+
+[![Cisco Packet Tracer Walkthrough](./SOHO.png)](https://www.loom.com/share/4f58dd1fd5104b54a9f2f609cc92fb0b)
+
 <details>
-<summary>🔍 Problem & Solution — Cisco Packet Tracer</summary>
+<summary>Read the full problem and solution</summary>
 <br>
 
 **Tool:** Cisco Packet Tracer — industry standard network simulation software
@@ -48,16 +50,16 @@ technician encounters.
 - Deliberately misconfigured Laptop0 with the wrong default gateway
 - Used `ipconfig` to identify the misconfiguration
 - Used `ping` to confirm connectivity had failed
-- Corrected the gateway and verified connectivity using `ping`
-
-[![Cisco Packet Tracer Walkthrough](./SOHO.png)](https://www.loom.com/share/4f58dd1fd5104b54a9f2f609cc92fb0b)
+- Corrected the gateway and verified connectivity was restored using `ping`
 
 </details>
 
 ---
 
+## 🛠️ Troubleshooting Log
+
 <details>
-<summary>🛠️ Troubleshooting Log</summary>
+<summary>View troubleshooting log</summary>
 <br>
 
 | Issue | What I tried | Outcome |
@@ -69,11 +71,7 @@ technician encounters.
 
 ---
 
-<details>
-<summary>💡 Key Takeaway</summary>
-<br>
+## 💡 Key Takeaway
 
 Every task here was done hands-on. I didn't just read about it —
 I did it, documented it, and can explain why each step matters.
-
-</details>
