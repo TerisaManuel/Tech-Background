@@ -20,43 +20,29 @@ and how I have grown throughout the Rise by Talent programme.
 - Troubleshooting technical problems where the answer wasn't obvious — learning to be systematic instead of guessing
 - Balancing multiple deliverables at once across hardware, AI, and personal projects
 
+---
 
-How I've Grown:
+## 📈 How I've Grown
 
 - My confidence has grown — I can now walk into a technical conversation and hold my own
 - I think differently about technology — I now see it as a problem-solving tool, not something intimidating
 - I have gone from zero to being able to build, troubleshoot, and document real technical work
 
-
-If I Did It Again:
-
-I would document everything from day one — the early brainstorms and mistakes are just as valuable as the finished work
-
-
-What's Next:
-
-Securing my first IT support role and continuing to build on everything I have proven through this programme
-Working toward CompTIA A+ certification to back up my practical skills with an industry recognised qualification
-
-
-
----
-
-## 📈 How I've Grown
-
-- [Write how your confidence has changed]
-- [Write how your technical ability has developed]
-- [Write how your thinking about technology has shifted]
-
 ---
 
 ## 🔁 If I Did It Again
 
-[Write one thing you would do differently and why.]
+- I would document everything from day one — the early brainstorms and mistakes are just as valuable as the finished work
 
----
+  ---
+
 
 ## 🚀 What's Next
 
-[Write what you are working toward after this programme —
-your goals, your next steps, your mindset going forward.]
+- Securing my first IT support role and continuing to build on everything I have proven through this programme
+- Working toward CompTIA A+ certification to back up my practical skills with an industry recognised qualification
+
+---
+
+
+
