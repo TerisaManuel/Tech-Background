@@ -30,6 +30,4 @@ my interests, creativity, and initiative outside of the programme.
 
 ---
 
-##  Additional Work
 
-Any additional projects will be added here as they are completed.
