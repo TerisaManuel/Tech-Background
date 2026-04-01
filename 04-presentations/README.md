@@ -3,18 +3,30 @@
 This section documents my AI case study presentation and video walkthroughs.
 
 ---
-## 🎬AI Business Case Study (Loom Video)
+
+## 🎬 AI Business Case Study (Loom Video)
+
+[![AI Business Case Study — Brainstorm & Thinking Process](./Brainstorm.png)](https://www.loom.com/share/f100954b526a415fb29d579145962702)
+
+<details>
+<summary>👇 What this video covers</summary>
+<br>
 
 A video walkthrough of the thinking behind the solution — the why behind
 every decision, the manual workflow before automation, and the tech mindset
 applied throughout.
 
-[![AI Business Case Study — Brainstorm & Thinking Process](./Brainstorm.png)](https://www.loom.com/share/f100954b526a415fb29d579145962702)
+</details>
 
 ---
 
-
 ## 🤖 AI Business Case Study — Global Charity Automation
+
+[![AI Business Case Study Presentation](./AI%20BUSINESS%20CASE%20STUDY.png)](https://www.loom.com/share/bd798a799fcc47fa93fd469344a44ee9)
+
+<details>
+<summary>👇 Read the full problem and solution</summary>
+<br>
 
 A group project presenting an AI-powered solution for a global charity
 operating across Australia and New Zealand.
@@ -33,11 +45,9 @@ An AI-powered workflow built across three pillars:
 
 **Tools used:** n8n, AI writing tools, Microsoft 365, cloud storage
 
-[![AI Business Case Study Presentation](./AI%20BUSINESS%20CASE%20STUDY.png)](https://www.loom.com/share/bd798a799fcc47fa93fd469344a44ee9)
+</details>
 
 ---
-
-
 
 ## 💡 Key Takeaway
 
