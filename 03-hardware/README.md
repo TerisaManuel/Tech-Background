@@ -1,11 +1,16 @@
 # 🖥️ Hardware & Technical Experience
 
+![Cisco](https://img.shields.io/badge/Cisco-Packet%20Tracer-blue?style=flat-square&logo=cisco)
+![Windows](https://img.shields.io/badge/Windows-Command%20Prompt-blue?style=flat-square&logo=windows)
+![Hardware](https://img.shields.io/badge/Hardware-Lenovo%20V14--IGL-red?style=flat-square)
+![Networking](https://img.shields.io/badge/Networking-SOHO-green?style=flat-square)
+
 This section proves real technical capability, not just theory.
 Every task here was done hands-on, documented, and can be explained step by step.
 
 ---
 
-## 📸 Photo Documentation — Laptop Disassembly & Reassembly
+## 📸 1. Photo Documentation — Laptop Disassembly & Reassembly
 
 **Device:** Lenovo V14-IGL (Model: 82C2)
 
@@ -27,7 +32,7 @@ identifying every internal component and explaining its function.
 
 ---
 
-## 🔍 Problem & Solution — Cisco Packet Tracer
+## 🔍 2. Problem & Solution — Cisco Packet Tracer
 
 **Tool:** Cisco Packet Tracer — industry standard network simulation software
 
@@ -48,13 +53,12 @@ technician encounters.
 
 ---
 
-## 🛠️ Troubleshooting Log
+## 🛠️ 3. Troubleshooting Log
 
 | Issue | What I tried | Outcome |
 |---|---|---|
 | Laptop0 could not ping PC0 | Checked IP configuration — found incorrect default gateway | Corrected gateway to 192.168.0.1 — connectivity restored |
 | Ping to printer timed out | Checked printer IP via Config tab — confirmed DHCP assigned 192.168.0.105 | Identified that Packet Tracer printer blocks ICMP by default — redirected test to router ping instead |
-| [Add real hardware example] | [Steps you took] | [How it was resolved] |
 
 ---
 
