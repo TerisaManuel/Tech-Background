@@ -31,7 +31,7 @@ A video walkthrough of the thinking behind the solution — the why behind
 every decision, the manual workflow before automation, and the tech mindset
 applied throughout.
 
-🎬 [Watch the Loom walkthrough here](YOUR-LOOM-LINK-HERE)
+[![AI Business Case Study — Brainstorm & Thinking Process](./Brainstorm.png)](https://www.loom.com/share/f100954b526a415fb29d579145962702)
 
 ---
 
