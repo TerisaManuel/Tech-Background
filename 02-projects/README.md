@@ -1,4 +1,4 @@
-#  Projects
+#  Vibe Coding
 
 This section documents the projects I completed during the Rise by Talent
 programme and any additional work outside of it.
