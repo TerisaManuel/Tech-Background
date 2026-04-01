@@ -39,17 +39,14 @@
 
 | Section | What's inside |
 |---|---|
-| [🖥️ Hardware & Technical Experience](./01-tech/) | PC teardown, Packet Tracer, ethernet cable, troubleshooting |
 | [📁 Projects](./02-projects/) | Capstone + personal projects |
+| [🖥️ Hardware & Technical Experience](./01-tech/) | PC teardown, Packet Tracer, troubleshooting |
 | [🎤 Presentations](./03-presentations/) | AI case study, Loom walkthroughs |
 | [📝 Reflections](./04-reflections/) | What I learned, challenges, growth |
 | [🔗 Other](./05-other/) | Social links, extra experience |
 
 ---
 
-## 🎯 Goal
-
-[One bold sentence about what you are working toward.]
 
 ---
 
