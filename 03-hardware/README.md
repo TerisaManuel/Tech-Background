@@ -5,14 +5,14 @@ Every task here was done hands-on, documented, and can be explained step by step
 
 ---
 
-## 📸 Photo Documentation — Laptop Disassembly & Reassembly
+## 📸 Watch Me Disassemble a Laptop
 
 **Device:** Lenovo V14-IGL (Model: 82C2)
 
 [![Laptop Disassembly & Component Identification](./Laptop%20Disassembly.png)](https://youtu.be/tm8huvp6ip8?si=lZnC4YoHjupjtlMy)
 
 <details>
-<summary>What the video covers</summary>
+<summary>📋 See the full breakdown</summary>
 <br>
 
 - Pre-disassembly safety checks — powered off, unplugged, face down
@@ -29,12 +29,12 @@ Every task here was done hands-on, documented, and can be explained step by step
 
 ---
 
-## 🔍 Problem & Solution — Cisco Packet Tracer
+## 🌐 SOHO Network — Problem & Solution
 
 [![Cisco Packet Tracer Walkthrough](./SOHO.png)](https://www.loom.com/share/4f58dd1fd5104b54a9f2f609cc92fb0b)
 
 <details>
-<summary>Read the full problem and solution</summary>
+<summary>🔎 How did I fix it? Click to find out</summary>
 <br>
 
 **Tool:** Cisco Packet Tracer — industry standard network simulation software
