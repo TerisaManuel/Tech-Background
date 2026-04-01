@@ -26,7 +26,7 @@ and workplace readiness built during the Rise by Talent programme.
 A self-driven app project built from idea to working product, reflecting
 my interests, creativity, and initiative outside of the programme.
 
-🎬 [Watch the Loom walkthrough here](YOUR-LOOM-LINK-HERE)
+[![Homeift App](./homefit.png)](https://www.loom.com/share/6a575dfad1e4487cbeabe99136d9999b)
 
 ---
 
