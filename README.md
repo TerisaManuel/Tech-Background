@@ -1,3 +1,4 @@
+![Banner](./banner.png)
 # Terisa Manuel — Tech Portfolio
 
 ## 👋 About Me
