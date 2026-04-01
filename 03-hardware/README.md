@@ -12,7 +12,7 @@ Every task here was done hands-on, documented, and can be explained step by step
 A full video walkthrough of disassembling and reassembling a laptop,
 identifying every internal component and explaining its function.
 
-🎬 [Watch the full video here](YOUR-YOUTUBE-LINK-HERE)
+🎬 [Watch the full video here](https://youtu.be/tm8huvp6ip8?si=lZnC4YoHjupjtlMy)
 
 **What the video covers:**
 - Pre-disassembly safety checks — powered off, unplugged, face down
