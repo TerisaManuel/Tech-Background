@@ -12,7 +12,11 @@
 <summary>💫 Let me introduce myself</summary>
 <br>
 
-Hello! I'm Terisa — a Cook Island woman born and raised in Auckland, NZ. I was previously working in hospitality before deciding it was time for a change. I wanted to challenge myself, grow in a new direction, and build a career I'm genuinely  excited about. So here I am, an aspiring IT support professional making that  happen. I got into tech because I love helping people and I love solving problems. Those two things have always been my thing — whether it was in hospitality or now in IT. There is something really satisfying about working through a problem  systematically until you crack it. The moment IT really clicked for me was sitting in class, staring at a problem. I had no idea how to solve — and then figuring it out anyway. That feeling? That is exactly why I am here.
+Hello! I'm Terisa a Cook Island woman born and raised in Auckland, NZ. 
+I was previously working in hospitality before deciding it was time for a change. 
+I wanted to challenge myself, grow in a new direction, and build a career I'm genuinely  excited about. 
+So here I am, an aspiring IT support professional making that  happen. I got into tech because I love helping people and I love solving problems. 
+Those two things have always been my thing — whether it was in hospitality or now in IT. There is something really satisfying about working through a problem  systematically until you crack it. The moment IT really clicked for me was sitting in class, staring at a problem. I had no idea how to solve — and then figuring it out anyway. That feeling? That is exactly why I am here.
 
 </details>
 
