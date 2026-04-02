@@ -17,11 +17,11 @@ Hey, I'm Terisa 👋
 🌺 A Cook Island woman born and raised in Auckland, NZ. I was previously
 working in hospitality before deciding it was time for a change. I wanted
 to challenge myself, grow in a new direction, and build a career I'm
-genuinely excited about. So here I am — an aspiring IT support professional
+genuinely excited about. So here I am, an aspiring IT support professional
 making that happen.
 
 💡 I got into tech because I love helping people and I love solving problems.
-Those two things have always been my thing — whether it was in hospitality
+Those two things have always been my thing, whether it was in hospitality
 or now in IT.
 
 > *"The moment IT really clicked for me was sitting in class, staring at a
