@@ -36,8 +36,10 @@ or now in IT.
 <summary>🔥 Here's what drives me</summary>
 <br>
 
-My goal is to secure an entry-level role in IT support — whether that is a help desk, IT support, or service desk analyst position — where I can apply my technical skills, troubleshoot real problems, and grow into a long-term career in tech.
-
+I am actively looking for an entry-level role in IT support — help desk, 
+IT support, or service desk analyst. I bring hands-on technical skills, 
+a systematic approach to troubleshooting, and the drive to grow into a 
+long-term career in tech.
 </details>
 
 ---
