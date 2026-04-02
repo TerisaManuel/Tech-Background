@@ -78,6 +78,6 @@ long-term career in tech.
 <br>
 
 - GitHub: [github.com/TerisaManuel](https://github.com/TerisaManuel)
-- LinkedIn: [Add your LinkedIn link here]
+- LinkedIn: [linkedin.com/in/terisa-manuel](https://www.linkedin.com/in/terisa-manuel-03b16a3b1/)
 
 </details>
