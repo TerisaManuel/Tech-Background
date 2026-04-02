@@ -1,12 +1,12 @@
+# Vibe   Coding
+
+Not just coursework — real projects with real thinking behind them.
+
 ---
 
 ## 🏋️ Personal Project — Homeift App
 
-<div align="center">
-
 [![Homeift App](./homefit.png)](https://www.loom.com/share/6a575dfad1e4487cbeabe99136d9999b)
-
-</div>
 
 <details>
 <summary>👇 Want to know the story behind this app?</summary>
