@@ -43,7 +43,6 @@ An AI-powered workflow built across three pillars:
 - Tender and awards application automation
 - Data and analytics dashboards
 
-**Tools used:** n8n, AI writing tools, Microsoft 365, cloud storage
 
 </details>
 
