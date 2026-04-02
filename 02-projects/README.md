@@ -13,7 +13,7 @@ I had an idea. I figured out the tools. I built it.
 [![Homeift App](./homefit.png)](https://www.loom.com/share/6a575dfad1e4487cbeabe99136d9999b)
 
 <details>
-<summary>👇 Want to know the story behind this app?</summary>
+<summary>👇 The Why</summary>
 <br>
 
 **How I built it:**
