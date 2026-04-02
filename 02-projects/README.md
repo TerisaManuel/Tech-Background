@@ -1,6 +1,10 @@
-# Vibe   Coding
+# 🎨 Vibe Coding
 
-Not just coursework — real projects with real thinking behind them.
+Vibe coding is building apps using AI-assisted and no-code tools —
+you describe what you want, and the tools help you build it.
+No computer science degree required.
+
+I had an idea. I figured out the tools. I built it.
 
 ---
 
@@ -12,21 +16,23 @@ Not just coursework — real projects with real thinking behind them.
 <summary>👇 Want to know the story behind this app?</summary>
 <br>
 
+**How I built it:**
+I used AI-assisted tools to bring my idea to life — describing what I
+wanted, problem-solving my way through it, and figuring things out as
+I went. That is exactly how I approach IT support too.
+
 **Why I built it:**
-Homeift was built for people who enjoy working out at home or are just
-getting started with exercise and want a comfortable, accessible way to
-do it. Whether you are a beginner finding your feet or someone who prefers
-training on their own terms, Homeift meets you where you are.
+For people who enjoy working out at home or are just getting into
+exercise and want an easy, accessible way to do it. Homeift meets
+you where you are.
 
 **What makes it different:**
-The app generates custom workouts based on your goal, available equipment,
-time, and fitness level. It also includes a live coach feature to guide you
-through each exercise with correct technique — so you are not just working
-out, you are working out properly.
+It generates custom workouts based on your goal, equipment, time, and
+fitness level — and includes a live coach to guide you through each
+exercise with correct technique.
 
 **Why this matters:**
-This wasn't a school assignment. I had a real problem, I designed a real
-solution, and I built it. That is exactly the kind of thinking I bring
-to IT support — identify the problem, find the fix, make it work.
+I had a real problem, I designed a real solution, and I built it.
+That is the kind of thinking I bring to everything I do.
 
 </details>
