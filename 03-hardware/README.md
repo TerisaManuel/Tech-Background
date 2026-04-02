@@ -3,6 +3,13 @@
 This section proves real technical capability, not just theory.
 Every task here was done hands-on, documented, and can be explained step by step.
 
+**What's in here:**
+- 📹 A full video of me disassembling and reassembling a Lenovo laptop,
+  naming every internal component and explaining what it does
+- 🌐 A SOHO network built in Cisco Packet Tracer — including a deliberate
+  misconfiguration I created, diagnosed, and fixed
+- 🛠️ A troubleshooting log documenting real problems and how I solved them
+
 ---
 
 ## 📸 Watch Me Disassemble a Laptop
