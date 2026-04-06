@@ -2,7 +2,7 @@
 
 ![Banner](./banner.png)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EA4B71&center=true&vCenter=true&width=500&lines=Aspiring+IT+Support+Professional;Problem+Solver;AI+Builder;Cook+Island+Woman+in+Tech;Hands-on+Learner)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EA4B71&center=true&vCenter=true&width=500&lines=Cook+Island+Woman+Making+Her+Mark+in+Tech;Built+Different.+Literally.;The+One+Who+Figures+It+Out;Real+Projects.+Real+Skills.+Real+Ready.;IT+Support.+AI.+Automation.+Lets+Go.;Problem+Finder.+Problem+Solver.;Turning+Curiosity+Into+Capability;I+Don%27t+Just+Learn+Tech+%E2%80%94+I+Build+With+It)](https://git.io/typing-svg)
 
 # Terisa Manuel — Tech Portfolio
 
