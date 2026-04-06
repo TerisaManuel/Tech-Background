@@ -21,9 +21,9 @@ Honest thoughts on what I learned, what tested me, and where I'm headed next.
 <summary>⚡ The moments that tested me</summary>
 <br>
 
-* Picking up tools I had never touched before — Cisco Packet Tracer, GitHub, n8n — and pushing through the learning curve instead of walking away
+* Picking up tools I had never touched before, Cisco Packet Tracer, GitHub, n8n — and pushing through the learning curve instead of walking away
 * Troubleshooting problems where the answer wasn't obvious and learning to work through them systematically instead of guessing
-* Balancing multiple deliverables at once across hardware, AI, and a personal project I built from scratch — and learning how to prioritise when everything feels urgent at the same time
+* Balancing multiple deliverables at once across hardware, AI, and a personal project I built from scratch, and learning how to prioritise when everything feels urgent at the same time
 
 </details>
 
@@ -34,7 +34,7 @@ Honest thoughts on what I learned, what tested me, and where I'm headed next.
 <br>
 
 * I can now walk into a technical conversation and hold my own. That confidence didn't exist when I started
-* I see technology differently now. It's not intimidating — it's a problem-solving tool. And I know how to use it
+* I see technology differently now. It's not intimidating, it's a problem-solving tool. And I know how to use it
 * I went from zero hands-on experience to being able to build, troubleshoot, and document real technical work. That's not a small thing
 
 </details>
@@ -45,7 +45,7 @@ Honest thoughts on what I learned, what tested me, and where I'm headed next.
 <summary>🔁 What I'd do differently</summary>
 <br>
 
-* Document everything from day one. The early brainstorms, the mistakes, the moments where nothing was working — those are just as valuable as the finished product. I know that now and it's something I'll carry into every role I step into
+* Document everything from day one. The early brainstorms, the mistakes, the moments where nothing was working, those are just as valuable as the finished product. I know that now and it's something I'll carry into every role I step into
 
 </details>
 
