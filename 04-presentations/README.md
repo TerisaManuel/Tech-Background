@@ -1,7 +1,6 @@
 # 🤖 AI Case Study — Charity Automation Project
 
-This is my most complex work. A real problem, a real client, a real solution built using AI and automation tools.
-
+This section documents my AI case study, a group project where we were given a real-world scenario and had to design an AI-powered solution from scratch
 ---
 
 ## 🧠 The Brainstorm & Thinking Process
