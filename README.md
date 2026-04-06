@@ -21,7 +21,7 @@
 
 <br>
 
-> 💡 Built on real work: hardware teardown, network design, and AI-powered apps — not just theory
+> 💡 Built on real work: hardware teardown, network design, and AI-powered apps, not just theory
 
 </div>
 
@@ -34,7 +34,7 @@
 Hey, I'm Terisa 👋  
 I transitioned from hospitality into tech and never looked back.
 
-I got into IT because I genuinely enjoy solving problems and helping people. That’s always been my thing — whether face-to-face in hospitality or now working through technical challenges.
+I got into IT because I genuinely enjoy solving problems and helping people. That’s always been my thing, whether face-to-face in hospitality or now working through technical challenges.
 
 > *"The moment IT really clicked for me was sitting in front of a problem I didn’t understand — and figuring it out anyway."*
 
@@ -50,7 +50,7 @@ That’s what drives me.
 
 I’m actively looking for an entry-level IT support role (help desk, service desk, or support technician).
 
-What I bring isn’t just technical knowledge — it’s how I approach problems and people.
+What I bring isn’t just technical knowledge, it’s how I approach problems and people.
 
 * 🛠️ **Hands-on technical skills** — hardware, networking, troubleshooting  
 * 🤖 **AI & automation** — building real workflows using n8n and LLM tools  
