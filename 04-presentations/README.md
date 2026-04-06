@@ -6,7 +6,7 @@ This section documents my AI case study presentation and video walkthroughs.
 
 ## 🎬 The Brainstorm, Before the Build
 
-[![AI Business Case Study — Brainstorm & Thinking Process](./Brainstorm.png)](https://www.loom.com/share/f100954b526a415fb29d579145962702)
+[![AI Business Case Study — Brainstorm & Thinking Process](./Brainstorm.png)](https://www.loom.com/share/ef5c178bab4d4df0963f3ef8673e05f2)
 
 <details>
 <summary>👇 What this video covers</summary>
