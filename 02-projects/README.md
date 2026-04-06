@@ -22,7 +22,7 @@ Vibe coding is building apps using AI-assisted tools, you describe what you want
 
 I enjoy working out at home, but I never knew if I was doing exercises correctly.
 
-Following YouTube videos and hoping for the best isn’t reliable — poor form leads to poor results and higher risk of injury.
+Following YouTube videos and hoping for the best isn’t reliable, poor form leads to poor results and higher risk of injury.
 
 I wanted something that didn’t just show workouts, but actually helped me **do them properly**.
 
