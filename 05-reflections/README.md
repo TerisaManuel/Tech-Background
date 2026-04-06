@@ -28,7 +28,7 @@ Picking up tools I had never touched before — Cisco Packet Tracer, GitHub, n8n
 
 Troubleshooting problems where the answer wasn't obvious and learning to work through them systematically instead of guessing.
 
-Balancing multiple deliverables at once across hardware, AI, and a personal project I built from scratch. Figuring out how to prioritise when everything feels urgent.
+Balancing multiple deliverables at once across hardware, AI, and a personal project I built from scratch — and learning how to prioritise when everything feels urgent at the same time.
 
 </details>
 
@@ -38,7 +38,7 @@ Balancing multiple deliverables at once across hardware, AI, and a personal proj
 <summary>📈 How I've grown</summary>
 <br>
 
-I can now walk into a technical conversation and hold my own. Six months ago I couldn't have said that.
+I can now walk into a technical conversation and hold my own. That confidence didn't exist when I started.
 
 I see technology differently now. It's not intimidating — it's a problem-solving tool. And I know how to use it.
 
@@ -52,18 +52,4 @@ I went from zero hands-on experience to being able to build, troubleshoot, and d
 <summary>🔁 What I'd do differently</summary>
 <br>
 
-Document everything from day one. The early brainstorms, the mistakes, the moments where nothing was working — those are just as valuable as the finished product. I know that now and it's something I'll carry into every role I step into.
-
-</details>
-
----
-
-<details>
-<summary>🚀 What's next</summary>
-<br>
-
-Working toward my **CompTIA A+** certification to back up my practical skills with an industry recognised qualification.
-
-Securing my first IT support role and continuing to build on everything I've proven through this programme.
-
-</details>
+Document everything from day one. The
