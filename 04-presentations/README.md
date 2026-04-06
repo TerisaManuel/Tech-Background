@@ -1,78 +1,105 @@
-# 🤖 AI & Automation Presentations
+# 🖥️ Hardware & Technical Experience
 
-Real-world AI solutions applied to actual problems. Every presentation documents the problem, approach, and outcome.
+Real hands-on work. Not theory. Every task here was completed and documented, demonstrating practical understanding.
 
 ---
 
-## 🌟 Group AI Case Study — Charity Workflow
+## 📸 Laptop Disassembly & Component ID
 
-> **Project:** AI automation for a global charity using n8n workflows
+> **Device:** Lenovo V14-IGL (Model: 82C2)
 
 <p align="center">
-  <a href="./04-presentations/charity-workflow-demo.mp4">
-    <img src="./04-presentations/charity-thumbnail.png" width="45%" alt="AI Case Study Demo">
+  <a href="https://youtu.be/tm8huvp6ip8?si=lZnC4YoHjupjtlMy">
+    <img src="./Laptop Disassembly.png" width="45%" alt="Laptop Disassembly Demo">
   </a>
 </p>
 
-> 🎬 *Click the image to watch the full walkthrough (video demo)*
+> 🎬 *Click the image to watch the full walkthrough*
 
 ---
 
 ### ⚡ Quick Summary
-- 🛠️ Built **AI-powered workflows** to automate donation tracking and communication  
-- 🔎 Identified inefficiencies and implemented automated solutions  
-- ✅ Delivered functional automation demo used by the charity  
-- 🤝 Demonstrated teamwork, problem-solving, and technical execution  
+- 🛠️ Disassembled, identified, and reassembled laptop components  
+- 🔧 Documented every part and its function  
+- ✅ Verified device function after reassembly  
 
 <details>
-<summary>💡 The Problem</summary>
+<summary>📋 What I covered</summary>
 <br>
 
-**Context:**  
-- Charity needed to process donations efficiently and reduce manual work  
+**Pre-disassembly safety checks**  
+- Powered off, unplugged, face down  
 
-**Challenges:**  
-- Multiple donation channels  
-- Manual reporting prone to errors  
-- Time-sensitive notifications required  
+**Components identified:**  
+- **Heat pipe** — draws heat from processor  
+- **Battery** — disconnected first to cut power  
+- **Motherboard** — central circuit board  
+- **RAM** — built-in, not upgradeable  
+- **WiFi card** — handles wireless connectivity  
+- **SSD slot** — stores OS and files  
+
+**Reassembly**  
+- Full reassembly and verified all functions  
 
 </details>
 
+---
+
+## 🌐 SOHO Network — Problem & Solution
+
+> **Tool:** Cisco Packet Tracer — industry standard network simulation
+
+<p align="center">
+  <a href="https://www.loom.com/share/4f58dd1fd5104b54a9f2f609cc92fb0b">
+    <img src="./SOHO.png" width="45%" alt="SOHO Network Demo">
+  </a>
+</p>
+
+> 🎬 *Click the image to watch the walkthrough (15 min)*
+
+---
+
+### ⚡ Quick Summary
+- 🛠️ Built and configured a SOHO network: router, 2 laptops, PC, printer  
+- 🔎 Diagnosed and resolved a default gateway issue  
+- ✅ Validated connectivity using real-world troubleshooting methods  
+
 <details>
-<summary>🛠️ How We Built It</summary>
+<summary>🔎 Problem, Process, & Fix</summary>
 <br>
 
-**Tools & Approach:**  
-- n8n for workflow automation  
-- AI-assisted scripting for message generation  
-- Step-by-step problem-solving: map → automate → test → deploy  
+**The Problem:**  
+- Laptop on SOHO network could not communicate with other devices (wrong default gateway)  
 
-**Key Steps:**  
-- Connected donor database to automated notifications  
-- Created workflow to flag high-priority tasks  
-- Built logging for tracking errors and outcomes  
+**Network Build:**  
+- Configured router with SSID, WPA2 security, DHCP  
+- Connected devices: router, PC0, Laptop0, Laptop1, printer  
+
+**Diagnosis & Fix:**  
+- Deliberately misconfigured Laptop0  
+- Used `ipconfig` and `ping` to identify the problem  
+- Corrected default gateway and verified connectivity  
 
 </details>
 
+---
+
+## 🛠️ Troubleshooting Log
+
 <details>
-<summary>⚡ Key Features & Highlights</summary>
+<summary>📄 View log</summary>
 <br>
 
-- 🔁 Automated email and messaging notifications  
-- 📊 Real-time reporting dashboard  
-- 🤖 AI-assisted task prioritization  
-- ✅ Reduced manual workload by 70%  
-- 🎨 Clear visual design for team readability  
+| Issue | Action Taken | Result |
+|---|---|---|
+| Laptop0 could not ping PC0 | Checked IP configuration — wrong default gateway | Corrected gateway → connectivity restored |
+| Ping to printer timed out | Checked printer IP — DHCP assigned correctly | Printer blocks ICMP by default → tested via router ping |
 
 </details>
 
-<details>
-<summary>🎯 Results & Impact</summary>
-<br>
+---
 
-- ✅ Functional automation deployed to charity workflow  
-- ✅ Saved team hours on repetitive tasks  
-- ✅ Demonstrated ability to **identify problems, design solutions, and implement independently**  
-- ✅ Portfolio-ready example of teamwork + technical skill in AI & automation  
-
-</details>
+## 💡 Key Takeaway
+- Hands-on, documented experience  
+- Can explain every step and its importance  
+- Demonstrates **practical IT support skills**: troubleshooting, networking, and hardware knowledge
