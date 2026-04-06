@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="./banner-dark.png#gh-dark-mode-only">
-<img src="./banner-light.png#gh-light-mode-only">
+![Banner](./banner.png)
 
 <br>
 
@@ -39,7 +38,7 @@ I got into IT because I genuinely enjoy solving problems and helping people. Tha
 
 > *"The moment IT really clicked for me was sitting in front of a problem I didn’t understand — and figuring it out anyway."*
 
-That feeling is what drives me.
+That’s what drives me.
 
 </details>
 
@@ -80,31 +79,20 @@ I didn’t take the traditional path into tech — I built my way in.
 
 ## 🚀 What I’ve Built
 
-### 🏋️ Homefit App  
-AI-powered workout generator — designed and built from scratch  
-→ [View Project](./02-projects/)
+| 🚀 Project | 💡 Description |
+|-----------|--------------|
+| 🏋️ **[Homefit App](./02-projects/)** | AI-powered workout generator — designed and built from scratch |
+| 🖥️ **[Hardware & Networking](./03-hardware/)** | Laptop disassembly, troubleshooting, and Cisco Packet Tracer network simulation |
+| 🤖 **[AI Case Study](./04-presentations/)** | Real-world automation solution built using n8n |
+| 📝 **[Reflections](./05-reflections/)** | Key lessons, challenges, and growth throughout my journey |
 
 ---
 
-### 🖥️ Hardware & Networking  
-Laptop disassembly, component identification, and network simulation  
-→ [Explore](./03-hardware/)
-
----
-
-### 🤖 AI Case Study  
-Automation solution built for a real-world scenario using n8n  
-→ [View Case Study](./04-presentations/)
-
----
-
-### 📝 Reflections  
-What I learned, what challenged me, and how I improved  
-→ [Read More](./05-reflections/)
-
----
-
-## 💬 Let’s connect
+<details>
+<summary>💬 Let’s connect</summary>
+<br>
 
 * 🐙 GitHub: https://github.com/TerisaManuel  
 * 💼 LinkedIn: https://www.linkedin.com/in/terisa-manuel-03b16a3b1/
+
+</details>
