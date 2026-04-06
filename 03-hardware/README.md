@@ -27,14 +27,18 @@ Real hands-on work. Not theory. Every task here was completed and documented, de
 <summary>📋 What I covered</summary>
 <br>
 
-- Pre-disassembly safety checks: powered off, unplugged, face down  
-- Removed bottom panel and identified components:  
-  - **Heat pipe** — draws heat from processor  
-  - **Battery** — disconnected first to cut power  
-  - **Motherboard** — central circuit board  
-  - **RAM** — built-in, not upgradeable  
-  - **WiFi card** — handles wireless connectivity  
-  - **SSD slot** — stores OS and files  
+**Pre-disassembly safety checks**  
+- Powered off, unplugged, face down  
+
+**Components identified:**  
+- **Heat pipe** — draws heat from processor  
+- **Battery** — disconnected first to cut power  
+- **Motherboard** — central circuit board  
+- **RAM** — built-in, not upgradeable  
+- **WiFi card** — handles wireless connectivity  
+- **SSD slot** — stores OS and files  
+
+**Reassembly**  
 - Full reassembly and verified all functions  
 
 </details>
@@ -61,10 +65,10 @@ Real hands-on work. Not theory. Every task here was completed and documented, de
 - ✅ Validated connectivity using real-world troubleshooting methods  
 
 <details>
-<summary>🔎 The Problem, Process, & Fix</summary>
+<summary>🔎 Problem, Process, & Fix</summary>
 <br>
 
-**Problem:**  
+**The Problem:**  
 - Laptop on SOHO network could not communicate with other devices (wrong default gateway)
 
 **Network Build:**  
@@ -99,4 +103,4 @@ Real hands-on work. Not theory. Every task here was completed and documented, de
 
 - Hands-on, documented experience  
 - Can explain every step and its importance  
-- Demonstrates **practical IT support skills**: troubleshooting, networking, and hardware knowledge  
+- Demonstrates **practical IT support skills**: troubleshooting, networking, and hardware knowledge
