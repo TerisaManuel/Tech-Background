@@ -2,6 +2,8 @@
 
 ![Banner](./banner.png)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EA4B71&center=true&vCenter=true&width=500&lines=Aspiring+IT+Support+Professional;Problem+Solver;AI+Builder;Cook+Island+Woman+in+Tech;Hands-on+Learner)](https://git.io/typing-svg)
+
 # Terisa Manuel — Tech Portfolio
 
 **Aspiring IT Support Professional · Auckland, New Zealand**
@@ -40,10 +42,10 @@ I'm actively looking for an entry-level role in IT support — help desk, servic
 
 What I bring isn't just technical knowledge. It's the ability to stay calm when things break, explain complex issues in plain language, and follow through every single time. I've built that through years in hospitality and everything in here shows how I've applied it.
 
-- 🛠️ **Hands-on technical skills** — hardware, networking, troubleshooting
-- 🤖 **AI and automation** — designing and building real workflows using n8n and LLMs
-- 💬 **Communication** — I can explain technical issues to anyone, technical or not
-- 🧠 **Problem-solving mindset** — systematic, calm, and curious
+* 🛠️ **Hands-on technical skills** — hardware, networking, troubleshooting
+* 🤖 **AI and automation** — designing and building real workflows using n8n and LLMs
+* 💬 **Communication** — I can explain technical issues to anyone, technical or not
+* 🧠 **Problem-solving mindset** — systematic, calm, and curious
 
 </details>
 
@@ -55,11 +57,11 @@ What I bring isn't just technical knowledge. It's the ability to stay calm when 
 
 I don't have a university degree. What I have is better, real projects, real problems, and real solutions I built myself.
 
-- **Communicator** — I explain technical issues in plain language to anyone, technical or not
-- **Reliable** — I show up, I get it done, and I follow through every time
-- **Calm under pressure** — when something breaks, I stay focused and work the problem
-- **Curious** — I always want to understand how things work, not just that they work
-- **Detail-oriented** — I care about doing things properly and I don't cut corners
+* **Communicator** — I explain technical issues in plain language to anyone, technical or not
+* **Reliable** — I show up, I get it done, and I follow through every time
+* **Calm under pressure** — when something breaks, I stay focused and work the problem
+* **Curious** — I always want to understand how things work, not just that they work
+* **Detail-oriented** — I care about doing things properly and I don't cut corners
 
 </details>
 
@@ -84,7 +86,7 @@ I don't have a university degree. What I have is better, real projects, real pro
 <summary>💬 Let's connect</summary>
 <br>
 
-- 🐙 GitHub: [github.com/TerisaManuel](https://github.com/TerisaManuel)
-- 💼 LinkedIn: [linkedin.com/in/terisa-manuel](https://www.linkedin.com/in/terisa-manuel-03b16a3b1/)
+* 🐙 GitHub: [github.com/TerisaManuel](https://github.com/TerisaManuel)
+* 💼 LinkedIn: [linkedin.com/in/terisa-manuel](https://www.linkedin.com/in/terisa-manuel-03b16a3b1/)
 
 </details>
