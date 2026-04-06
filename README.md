@@ -38,7 +38,7 @@ I got into IT because I love helping people and I love solving problems. Those t
 
 I'm actively looking for an entry-level role in IT support — help desk, service desk analyst, or IT support technician.
 
-What I bring isn't just technical knowledge. It's the ability to stay calm when things break, explain complex issues in plain language, and follow through every single time. I've built that through years in hospitality and proven it through everything in this portfolio.
+What I bring isn't just technical knowledge. It's the ability to stay calm when things break, explain complex issues in plain language, and follow through every single time. I've built that through years in hospitality and everything in here shows how I've applied it.
 
 - 🛠️ **Hands-on technical skills** — hardware, networking, troubleshooting
 - 🤖 **AI and automation** — designing and building real workflows using n8n and LLMs
@@ -53,7 +53,7 @@ What I bring isn't just technical knowledge. It's the ability to stay calm when 
 <summary>🌟 What makes me different</summary>
 <br>
 
-I don't have a university degree. What I have is better — real projects, real problems, and real solutions I built myself.
+I don't have a university degree. What I have is better, real projects, real problems, and real solutions I built myself.
 
 - **Communicator** — I explain technical issues in plain language to anyone, technical or not
 - **Reliable** — I show up, I get it done, and I follow through every time
