@@ -12,7 +12,7 @@ Vibe coding is building apps using AI-assisted tools — you describe what you w
 
 <p align="center">
   <a href="https://www.loom.com/share/bd798a799fcc47fa93fd469344a44ee9">
-    <img src="./HOMEFITT.png" width="80%">
+    <img src="./HOMEFITT.png" width="45%" alt="Homefit App Demo">
   </a>
 </p>
 
@@ -46,7 +46,7 @@ Vibe coding is building apps using AI-assisted tools — you describe what you w
 
 **Tools & Approach:**
 - Google AI Studio + AI-assisted design tools  
-- Iterative problem-solving: describe → test → refine → repeat  
+- Adaptive problem‑solving: describe → test → refine → repeat
 - No tutorials, no hand-holding — fully independent build  
 
 **Mindset applied:**
