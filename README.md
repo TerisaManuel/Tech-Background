@@ -1,18 +1,28 @@
 <div align="center">
 
-![Banner](./banner.png)
+<img src="./banner-dark.png#gh-dark-mode-only">
+<img src="./banner-light.png#gh-light-mode-only">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EA4B71&center=true&vCenter=true&width=500&lines=Real+Projects.+Real+Skills.+Real+Ready.;IT+Support.+AI.+Automation.+Lets+Go.;Problem+Finder.+Problem+Solver.;Turning+Curiosity+Into+Capability;I+Don%27t+Just+Learn+Tech+%E2%80%94+I+Build+With+It)](https://git.io/typing-svg)
+<br>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EA4B71&center=true&vCenter=true&width=500&lines=Real+Projects.+Real+Skills.+Real+Ready.;IT+Support.+AI.+Automation.;Problem+Finder.+Problem+Solver.;Turning+Curiosity+Into+Capability;I+Don%27t+Just+Learn+Tech+%E2%80%94+I+Build+With+It)](https://git.io/typing-svg)
 
 # Tech Portfolio
 
-**Aspiring IT Support Professional · Auckland, New Zealand**
+**Entry-Level IT Support · Troubleshooting · Networking · Real-World Projects**  
+📍 Auckland, New Zealand
 
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=flat&logo=cisco&logoColor=white)
-![Google AI](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=flat&logo=google&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=flat&logo=microsoft&logoColor=white)
+<br>
+
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google_AI_Studio-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoft&logoColor=white)
+
+<br>
+
+> 💡 Built on real work: hardware teardown, network design, and AI-powered apps — not just theory
 
 </div>
 
@@ -22,30 +32,31 @@
 <summary>💫 Who I am</summary>
 <br>
 
-Hey, I'm Terisa 👋
+Hey, I'm Terisa 👋  
+I transitioned from hospitality into tech and never looked back.
 
-A Cook Island woman born and raised in Auckland, NZ. I come from a hospitality background and I made a deliberate decision to pivot into tech. Not because it was easy, but because I wanted to challenge myself, grow in a real direction, and build a career I'm genuinely excited about.
+I got into IT because I genuinely enjoy solving problems and helping people. That’s always been my thing — whether face-to-face in hospitality or now working through technical challenges.
 
-I got into IT because I love helping people and I love solving problems. Those two things have always been my thing, whether it was in hospitality or now behind a screen.
+> *"The moment IT really clicked for me was sitting in front of a problem I didn’t understand — and figuring it out anyway."*
 
-> *"The moment IT really clicked for me was sitting in class, staring at a problem I had no idea how to solve and then figuring it out anyway. That feeling? That is exactly why I am here."*
+That feeling is what drives me.
 
 </details>
 
 ---
 
 <details>
-<summary>🔥 What I bring to the table</summary>
+<summary>🔥 What I bring</summary>
 <br>
 
-I'm actively looking for an entry-level role in IT support — help desk, service desk analyst, or IT support technician.
+I’m actively looking for an entry-level IT support role (help desk, service desk, or support technician).
 
-What I bring isn't just technical knowledge. It's the ability to stay calm when things break, explain complex issues in plain language, and follow through every single time. I've built that through years in hospitality and everything in here shows how I've applied it.
+What I bring isn’t just technical knowledge — it’s how I approach problems and people.
 
-* 🛠️ **Hands-on technical skills** — hardware, networking, troubleshooting
-* 🤖 **AI and automation** — designing and building real workflows using n8n and LLMs
-* 💬 **Communication** — I can explain technical issues to anyone, technical or not
-* 🧠 **Problem-solving mindset** — systematic, calm, and curious
+* 🛠️ **Hands-on technical skills** — hardware, networking, troubleshooting  
+* 🤖 **AI & automation** — building real workflows using n8n and LLM tools  
+* 💬 **Communication** — I explain technical issues clearly to any audience  
+* 🧠 **Problem-solving mindset** — calm, structured, and persistent  
 
 </details>
 
@@ -55,38 +66,45 @@ What I bring isn't just technical knowledge. It's the ability to stay calm when 
 <summary>🌟 What makes me different</summary>
 <br>
 
-I don't have a university degree. What I have is better, real projects, real problems, and real solutions I built myself.
+I didn’t take the traditional path into tech — I built my way in.
 
-* **Communicator** — I explain technical issues in plain language to anyone, technical or not
-* **Reliable** — I show up, I get it done, and I follow through every time
-* **Calm under pressure** — when something breaks, I stay focused and work the problem
-* **Curious** — I always want to understand how things work, not just that they work
-* **Detail-oriented** — I care about doing things properly and I don't cut corners
-
-</details>
-
----
-
-<details>
-<summary>📂 What I've built</summary>
-<br>
-
-| Section | What's inside |
-|---|---|
-| [🚀 Homeift App — Vibe Coding](./02-projects/) | A personal AI-powered home workout app I built from scratch |
-| [🖥️ Hardware & Networking](./03-hardware/) | Laptop disassembly, Cisco Packet Tracer SOHO network, troubleshooting log |
-| [🤖 AI Case Study](./04-presentations/) | Group AI solution built for a real global charity using n8n and automation |
-| [📝 Reflections](./05-reflections/) | What I learned, what tested me, and where I'm headed |
+* **Communicator** — I translate technical problems into plain language  
+* **Reliable** — I follow through and get things done properly  
+* **Calm under pressure** — I stay focused when things break  
+* **Curious** — I want to understand how things work, not just use them  
+* **Detail-oriented** — I care about doing things right  
 
 </details>
 
 ---
 
-<details>
-<summary>💬 Let's connect</summary>
-<br>
+## 🚀 What I’ve Built
 
-* 🐙 GitHub: [github.com/TerisaManuel](https://github.com/TerisaManuel)
-* 💼 LinkedIn: [linkedin.com/in/terisa-manuel](https://www.linkedin.com/in/terisa-manuel-03b16a3b1/)
+### 🏋️ Homefit App  
+AI-powered workout generator — designed and built from scratch  
+→ [View Project](./02-projects/)
 
-</details>
+---
+
+### 🖥️ Hardware & Networking  
+Laptop disassembly, component identification, and network simulation  
+→ [Explore](./03-hardware/)
+
+---
+
+### 🤖 AI Case Study  
+Automation solution built for a real-world scenario using n8n  
+→ [View Case Study](./04-presentations/)
+
+---
+
+### 📝 Reflections  
+What I learned, what challenged me, and how I improved  
+→ [Read More](./05-reflections/)
+
+---
+
+## 💬 Let’s connect
+
+* 🐙 GitHub: https://github.com/TerisaManuel  
+* 💼 LinkedIn: https://www.linkedin.com/in/terisa-manuel-03b16a3b1/
