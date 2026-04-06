@@ -18,11 +18,11 @@ Real hands-on work. Not theory. Every task here was done, documented, and can be
 
 - Pre-disassembly safety checks — powered off, unplugged, face down
 - Removed the bottom panel and identified every internal component
-- **Battery (35Wh lithium-ion)** — disconnected first to cut all power to the board
+- **Battery** — disconnected first to cut all power to the board
 - **SSD slot** — where the operating system and files are stored
 - **WiFi card** — handles all wireless connectivity
 - **Heat pipe** — draws heat away from the Intel Celeron N4020 processor
-- **RAM (4GB DDR4-2400)** — soldered directly, cannot be upgraded
+- **RAM** — soldered directly, cannot be upgraded
 - **Motherboard** — identified as the central circuit board everything connects through
 - Full reassembly and power on to verify everything was functioning
 
