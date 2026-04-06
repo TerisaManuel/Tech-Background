@@ -36,7 +36,7 @@ I wanted something that didn’t just show workouts, but actually helped me **do
 
 **Built with:** Google AI Studio
 
-I used AI-assisted tools to bring this idea to life — describing what I wanted, testing outputs, fixing issues, and iterating in real time.
+I used AI-assisted tools to bring this idea to life — describing what I wanted, testing outputs, fixing issues, and refining in real time.
 
 No step-by-step tutorial. No hand-holding.
 
@@ -69,13 +69,13 @@ That’s the same mindset I bring to IT support:
 <summary>🎯 Why this matters</summary>
 <br>
 
-I didn’t build this for a grade — I built it to solve a real problem.
+I didn’t build this for a grade, I built it to solve a real problem.
 
 This project reflects how I think:
 - identify gaps  
 - design practical solutions  
 - build and refine until it works  
 
-That’s exactly how I approach IT support — not just fixing issues, but understanding and solving them properly.
+That’s exactly how I approach IT support, not just fixing issues, but understanding and solving them properly.
 
 </details>
