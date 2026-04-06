@@ -10,7 +10,7 @@ I had an idea. I figured out the tools. I built it.
 
 ## 🏋️ Personal Project — Homeift App
 
-[![Homeift App](./homefit.png)](https://www.loom.com/share/bd798a799fcc47fa93fd469344a44ee9)
+[![Homeift App](./HOMEFITT.png)](https://www.loom.com/share/bd798a799fcc47fa93fd469344a44ee9)
 
 <details>
 <summary>👇 The Why</summary>
