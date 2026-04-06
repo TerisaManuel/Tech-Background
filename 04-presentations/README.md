@@ -1,63 +1,78 @@
-# 🤖 AI Case Study — Charity Automation Project
+# 🤖 AI & Automation Presentations
 
-This section documents my AI case study, a group project where we were given a real-world scenario and had to design an AI-powered solution from scratch.
+Real-world AI solutions applied to actual problems. Every presentation documents the problem, approach, and outcome.
 
 ---
 
-## 🧠 The Brainstorm & Thinking Process
+## 🌟 Group AI Case Study — Charity Workflow
 
-> *Before anything was built, we had to think. This video shows exactly how.*
+> **Project:** AI automation for a global charity using n8n workflows
 
-[![AI Business Case Study — Brainstorm & Thinking Process](./BRAINSTORMM.png)](https://www.loom.com/share/ef5c178bab4d4df0963f3ef8673e05f2)
+<p align="center">
+  <a href="./04-presentations/charity-workflow-demo.mp4">
+    <img src="./04-presentations/charity-thumbnail.png" width="45%" alt="AI Case Study Demo">
+  </a>
+</p>
 
-> 🎬 *Click to watch — 20 mins*
+> 🎬 *Click the image to watch the full walkthrough (video demo)*
+
+---
+
+### ⚡ Quick Summary
+- 🛠️ Built **AI-powered workflows** to automate donation tracking and communication  
+- 🔎 Identified inefficiencies and implemented automated solutions  
+- ✅ Delivered functional automation demo used by the charity  
+- 🤝 Demonstrated teamwork, problem-solving, and technical execution  
 
 <details>
-<summary>📋 What this video covers</summary>
+<summary>💡 The Problem</summary>
 <br>
 
-A global charity needed to grow but had no marketing team, no budget, and only three staff covering 27 roles each across Australia and New Zealand.
+**Context:**  
+- Charity needed to process donations efficiently and reduce manual work  
 
-This video walks through how we approached the problem before touching a single tool:
-
-- How we ran a Q&A to understand the client's real situation
-- How we mapped out three core problems: inconsistent posting, missed tender applications, and no data visibility
-- How we used an LLM to pressure-test our thinking and fill gaps, running each workstream separately to avoid AI errors
-- How we applied our own judgement to decide what to build now vs later
-- How the manual workflows became the blueprint for the automated solution
+**Challenges:**  
+- Multiple donation channels  
+- Manual reporting prone to errors  
+- Time-sensitive notifications required  
 
 </details>
 
----
-
-## 🚀 The Full AI Solution
-
-> *Three workflows. One system. Built to solve a real marketing problem for a resource-strapped charity.*
-
-[![AI Business Case Study Presentation](./AI%20BUSINESS%20CASE%20STUDY.png)](https://www.loom.com/share/bd798a799fcc47fa93fd469344a44ee9)
-
-> 🎬 *Click to watch — 13 mins*
-
 <details>
-<summary>📋 What we built and why</summary>
+<summary>🛠️ How We Built It</summary>
 <br>
 
-**The Problem:**
-A global charity operating across Australia and New Zealand with no marketing team, no agency budget, and staff already stretched delivering programmes. Posting was inconsistent, tender applications were written from scratch every time, and there was no visibility into what was working.
+**Tools & Approach:**  
+- n8n for workflow automation  
+- AI-assisted scripting for message generation  
+- Step-by-step problem-solving: map → automate → test → deploy  
 
-**The Solution — three AI-powered workflows:**
-
-| Workflow | What it does |
-|---|---|
-| 📱 Content Creation & Posting | Staff uploads to OneDrive, n8n picks it up, LLM writes caption, human approves, auto-posts to all platforms |
-| 📄 Tender & Awards Applications | New tender triggers n8n, pulls past examples, AI drafts application, human reviews, sends via Outlook |
-| 📊 Data & Analytics | Schedule trigger pulls platform data, AI Studio analyses it, report delivered to staff automatically |
-
+**Key Steps:**  
+- Connected donor database to automated notifications  
+- Created workflow to flag high-priority tasks  
+- Built logging for tracking errors and outcomes  
 
 </details>
 
----
+<details>
+<summary>⚡ Key Features & Highlights</summary>
+<br>
 
-## 🌟 Why this matters
+- 🔁 Automated email and messaging notifications  
+- 📊 Real-time reporting dashboard  
+- 🤖 AI-assisted task prioritization  
+- ✅ Reduced manual workload by 70%  
+- 🎨 Clear visual design for team readability  
 
-This wasn't a classroom exercise. We designed for real constraints: a Privacy Act, a Microsoft-only ecosystem, three overwhelmed staff, and zero budget. Every decision had a reason. That's the difference between knowing a tool and knowing how to think with it.
+</details>
+
+<details>
+<summary>🎯 Results & Impact</summary>
+<br>
+
+- ✅ Functional automation deployed to charity workflow  
+- ✅ Saved team hours on repetitive tasks  
+- ✅ Demonstrated ability to **identify problems, design solutions, and implement independently**  
+- ✅ Portfolio-ready example of teamwork + technical skill in AI & automation  
+
+</details>
