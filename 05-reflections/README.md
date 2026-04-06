@@ -21,7 +21,7 @@ Honest thoughts on what I learned, what tested me, and where I'm headed next.
 <summary>⚡ The moments that tested me</summary>
 <br>
 
-* Picking up tools I had never touched before — Cisco Packet Tracer, GitHub, n8n, and pushing through the learning curve instead of walking away
+* Picking up tools I had never touched before, Cisco Packet Tracer, GitHub, n8n, and pushing through the learning curve instead of walking away
 * Troubleshooting problems where the answer wasn't obvious and learning to work through them systematically instead of guessing
 * Balancing multiple deliverables at once across hardware, AI, and a personal project I built from scratch, and learning how to prioritise when everything feels urgent at the same time
 
