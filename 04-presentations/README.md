@@ -1,6 +1,6 @@
 # 🤖 AI Case Study — Charity Automation Project
 
-This section documents my AI case study, a group project where we were given a real-world scenario and had to design an AI-powered solution from scratch
+> This section documents my AI case study, a group project where we were given a real-world scenario and had to design an AI-powered solution from scratch
 ---
 
 ## 🧠 The Brainstorm & Thinking Process
