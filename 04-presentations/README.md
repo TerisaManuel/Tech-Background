@@ -53,9 +53,6 @@ A global charity operating across Australia and New Zealand with no marketing te
 | 📄 Tender & Awards Applications | New tender triggers n8n, pulls past examples, AI drafts application, human reviews, sends via Outlook |
 | 📊 Data & Analytics | Schedule trigger pulls platform data, AI Studio analyses it, report delivered to staff automatically |
 
-**Tools used:** n8n · Google AI Studio · NotebookLM · Agentic AI · Microsoft 365 · Stitch · Azure OpenAI
-
-**My role:** Part of a four-person team. Contributed to the brainstorm, workflow design, and the analytics workstream.
 
 </details>
 
