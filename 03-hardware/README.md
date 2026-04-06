@@ -43,7 +43,7 @@ Real hands-on work. Not theory. Every task here was done, documented, and can be
 <br>
 
 **The Problem:**
-A laptop on a SOHO network could not communicate with other devices — caused by an incorrect default gateway. One of the most common issues an IT support technician encounters in the real world.
+A laptop on a SOHO network could not communicate with other devices, caused by an incorrect default gateway. One of the most common issues an IT support technician encounters in the real world.
 
 **What I built:**
 - A SOHO network with a wireless router, PC, two laptops and a printer
