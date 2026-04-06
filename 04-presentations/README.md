@@ -1,105 +1,66 @@
-# 🖥️ Hardware & Technical Experience
+# 🤖 AI Case Study — Charity Automation Project
 
-Real hands-on work. Not theory. Every task here was completed and documented, demonstrating practical understanding.
-
----
-
-## 📸 Laptop Disassembly & Component ID
-
-> **Device:** Lenovo V14-IGL (Model: 82C2)
-
-<p align="center">
-  <a href="https://youtu.be/tm8huvp6ip8?si=lZnC4YoHjupjtlMy">
-    <img src="./Laptop Disassembly.png" width="45%" alt="Laptop Disassembly Demo">
-  </a>
-</p>
-
-> 🎬 *Click the image to watch the full walkthrough*
+This section documents my AI case study, a group project where we were given a real-world scenario and had to design an AI-powered solution from scratch.
 
 ---
 
-### ⚡ Quick Summary
-- 🛠️ Disassembled, identified, and reassembled laptop components  
-- 🔧 Documented every part and its function  
-- ✅ Verified device function after reassembly  
+## 🧠 The Brainstorm & Thinking Process
+
+> *Before anything was built, we had to think. This video shows exactly how.*
+
+[![AI Business Case Study — Brainstorm & Thinking Process](./BRAINSTORMM.png)](https://www.loom.com/share/ef5c178bab4d4df0963f3ef8673e05f2)
+
+> 🎬 *Click to watch — 20 mins*
 
 <details>
-<summary>📋 What I covered</summary>
+<summary>📋 What this video covers</summary>
 <br>
 
-**Pre-disassembly safety checks**  
-- Powered off, unplugged, face down  
+A global charity needed to grow but had no marketing team, no budget, and only three staff covering 27 roles each across Australia and New Zealand.
 
-**Components identified:**  
-- **Heat pipe** — draws heat from processor  
-- **Battery** — disconnected first to cut power  
-- **Motherboard** — central circuit board  
-- **RAM** — built-in, not upgradeable  
-- **WiFi card** — handles wireless connectivity  
-- **SSD slot** — stores OS and files  
+This video walks through how we approached the problem before touching a single tool:
 
-**Reassembly**  
-- Full reassembly and verified all functions  
+- How we ran a Q&A to understand the client's real situation
+- How we mapped out three core problems: inconsistent posting, missed tender applications, and no data visibility
+- How we used an LLM to pressure-test our thinking and fill gaps, running each workstream separately to avoid AI errors
+- How we applied our own judgement to decide what to build now vs later
+- How the manual workflows became the blueprint for the automated solution
 
 </details>
 
 ---
 
-## 🌐 SOHO Network — Problem & Solution
+## 🚀 The Full AI Solution
 
-> **Tool:** Cisco Packet Tracer — industry standard network simulation
+> *Three workflows. One system. Built to solve a real marketing problem for a resource-strapped charity.*
 
-<p align="center">
-  <a href="https://www.loom.com/share/4f58dd1fd5104b54a9f2f609cc92fb0b">
-    <img src="./SOHO.png" width="45%" alt="SOHO Network Demo">
-  </a>
-</p>
+[![AI Business Case Study Presentation](./AI%20BUSINESS%20CASE%20STUDY.png)](https://www.loom.com/share/bd798a799fcc47fa93fd469344a44ee9)
 
-> 🎬 *Click the image to watch the walkthrough (15 min)*
-
----
-
-### ⚡ Quick Summary
-- 🛠️ Built and configured a SOHO network: router, 2 laptops, PC, printer  
-- 🔎 Diagnosed and resolved a default gateway issue  
-- ✅ Validated connectivity using real-world troubleshooting methods  
+> 🎬 *Click to watch — 13 mins*
 
 <details>
-<summary>🔎 Problem, Process, & Fix</summary>
+<summary>📋 What we built and why</summary>
 <br>
 
-**The Problem:**  
-- Laptop on SOHO network could not communicate with other devices (wrong default gateway)  
+**The Problem:**
+A global charity operating across Australia and New Zealand with no marketing team, no agency budget, and staff already stretched delivering programmes. Posting was inconsistent, tender applications were written from scratch every time, and there was no visibility into what was working.
 
-**Network Build:**  
-- Configured router with SSID, WPA2 security, DHCP  
-- Connected devices: router, PC0, Laptop0, Laptop1, printer  
+**The Solution — three AI-powered workflows:**
 
-**Diagnosis & Fix:**  
-- Deliberately misconfigured Laptop0  
-- Used `ipconfig` and `ping` to identify the problem  
-- Corrected default gateway and verified connectivity  
+| Workflow | What it does |
+|---|---|
+| 📱 Content Creation & Posting | Staff uploads to OneDrive, n8n picks it up, LLM writes caption, human approves, auto-posts to all platforms |
+| 📄 Tender & Awards Applications | New tender triggers n8n, pulls past examples, AI drafts application, human reviews, sends via Outlook |
+| 📊 Data & Analytics | Schedule trigger pulls platform data, AI Studio analyses it, report delivered to staff automatically |
+
+**Tools used:** n8n · Google AI Studio · NotebookLM · Agentic AI · Microsoft 365 · Stitch · Azure OpenAI
+
+**My role:** Part of a four-person team. Contributed to the brainstorm, workflow design, and the analytics workstream.
 
 </details>
 
 ---
 
-## 🛠️ Troubleshooting Log
+## 🌟 Why this matters
 
-<details>
-<summary>📄 View log</summary>
-<br>
-
-| Issue | Action Taken | Result |
-|---|---|---|
-| Laptop0 could not ping PC0 | Checked IP configuration — wrong default gateway | Corrected gateway → connectivity restored |
-| Ping to printer timed out | Checked printer IP — DHCP assigned correctly | Printer blocks ICMP by default → tested via router ping |
-
-</details>
-
----
-
-## 💡 Key Takeaway
-- Hands-on, documented experience  
-- Can explain every step and its importance  
-- Demonstrates **practical IT support skills**: troubleshooting, networking, and hardware knowledge
+This wasn't a classroom exercise. We designed for real constraints: a Privacy Act, a Microsoft-only ecosystem, three overwhelmed staff, and zero budget. Every decision had a reason. That's the difference between knowing a tool and knowing how to think with it.
