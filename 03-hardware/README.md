@@ -1,36 +1,30 @@
 # 🖥️ Hardware & Technical Experience
 
-This section proves real technical capability, not just theory.
-Every task here was done hands-on, documented, and can be explained step by step.
-
-**What's in here:**
-- 📹 A full video of me disassembling and reassembling a Lenovo laptop,
-  naming every internal component and explaining what it does
-- 🌐 A SOHO network built in Cisco Packet Tracer — including a deliberate
-  misconfiguration I created, diagnosed, and fixed
-- 🛠️ A troubleshooting log documenting real problems and how I solved them
+Real hands-on work. Not theory. Every task here was done, documented, and can be explained step by step.
 
 ---
 
-## 📸 Watch Me Disassemble a Laptop
+## 📸 Laptop Disassembly & Component ID
 
-**Device:** Lenovo V14-IGL (Model: 82C2)
+> **Device:** Lenovo V14-IGL (Model: 82C2)
 
 [![Laptop Disassembly & Component Identification](./Laptop%20Disassembly.png)](https://youtu.be/tm8huvp6ip8?si=lZnC4YoHjupjtlMy)
 
+> 🎬 *Click the image to watch — I disassemble, identify every component, and reassemble*
+
 <details>
-<summary>📋 See the full breakdown</summary>
+<summary>📋 What I covered</summary>
 <br>
 
 - Pre-disassembly safety checks — powered off, unplugged, face down
-- Removing the bottom panel and identifying internal components
-- Heat pipe — draws heat away from the Intel Celeron N4020 processor
-- Battery (35Wh lithium-ion) — disconnected first to cut all power to the board
-- Motherboard — the central circuit board everything connects through
-- RAM (4GB DDR4-2400) — soldered directly, cannot be upgraded
-- WiFi card — handles all wireless connectivity
-- M.2 SSD slot — where the operating system and files are stored
-- Full reassembly and power on to verify everything is functioning
+- Removed the bottom panel and identified every internal component
+- **Heat pipe** — draws heat away from the Intel Celeron N4020 processor
+- **Battery (35Wh lithium-ion)** — disconnected first to cut all power to the board
+- **Motherboard** — the central circuit board everything connects through
+- **RAM (4GB DDR4-2400)** — soldered directly, cannot be upgraded
+- **WiFi card** — handles all wireless connectivity
+- **M.2 SSD slot** — where the operating system and files are stored
+- Full reassembly and power on to verify everything was functioning
 
 </details>
 
@@ -38,22 +32,24 @@ Every task here was done hands-on, documented, and can be explained step by step
 
 ## 🌐 SOHO Network — Problem & Solution
 
+> **Tool:** Cisco Packet Tracer — industry standard network simulation software
+
 [![Cisco Packet Tracer Walkthrough](./SOHO.png)](https://www.loom.com/share/4f58dd1fd5104b54a9f2f609cc92fb0b)
 
+> 🎬 *Click the image to watch the full walkthrough — 15 mins*
+
 <details>
-<summary>🔎 How did I fix it? Click to find out</summary>
+<summary>🔎 The problem, the process, the fix</summary>
 <br>
 
-**Tool:** Cisco Packet Tracer — industry standard network simulation software
-
 **The Problem:**
-A laptop on a SOHO network cannot communicate with other devices due to
-an incorrect default gateway — one of the most common issues an IT support
-technician encounters.
+A laptop on a SOHO network could not communicate with other devices — caused by an incorrect default gateway. One of the most common issues an IT support technician encounters in the real world.
 
-**The Solution:**
-- Built a SOHO network with a wireless router, PC, two laptops and a printer
+**What I built:**
+- A SOHO network with a wireless router, PC, two laptops and a printer
 - Configured the router with SSID, WPA2 security and DHCP
+
+**How I diagnosed and fixed it:**
 - Deliberately misconfigured Laptop0 with the wrong default gateway
 - Used `ipconfig` to identify the misconfiguration
 - Used `ping` to confirm connectivity had failed
@@ -66,7 +62,7 @@ technician encounters.
 ## 🛠️ Troubleshooting Log
 
 <details>
-<summary>View troubleshooting log</summary>
+<summary>📄 View troubleshooting log</summary>
 <br>
 
 | Issue | What I tried | Outcome |
@@ -80,5 +76,4 @@ technician encounters.
 
 ## 💡 Key Takeaway
 
-Every task here was done hands-on. I didn't just read about it —
-I did it, documented it, and can explain why each step matters.
+I didn't just read about this stuff. I did it, documented it, and I can explain exactly why each step matters — which is exactly what IT support requires.
