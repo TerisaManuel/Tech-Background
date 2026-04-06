@@ -1,6 +1,6 @@
-# 🎨 Vibe Coding
+# 🎨 AI-Built Projects (Vibe Coding)
 
-Vibe coding is building apps using AI-assisted tools, you describe what you want, and the tools help bring it to life.
+Vibe coding is building apps using AI-assisted tools — you describe what you want, and the tools help bring it to life.
 
 **I had an idea. I figured out the tools. I built it.**
 
@@ -20,11 +20,10 @@ Vibe coding is building apps using AI-assisted tools, you describe what you want
 <summary>💡 The problem</summary>
 <br>
 
-I enjoy working out at home, but I never knew if I was doing exercises correctly.
-
-Following YouTube videos and hoping for the best isn’t reliable, poor form leads to poor results and higher risk of injury.
-
-I wanted something that didn’t just show workouts, but actually helped me **do them properly**.
+- I enjoy working out at home, but I didn’t know if I was doing exercises correctly  
+- Following YouTube videos wasn’t reliable  
+- Poor form leads to bad results and higher injury risk  
+- I needed something that helped me **do exercises properly**, not just follow along  
 
 </details>
 
@@ -36,16 +35,15 @@ I wanted something that didn’t just show workouts, but actually helped me **do
 
 **Built with:** Google AI Studio
 
-I used AI-assisted tools to bring this idea to life — describing what I wanted, testing outputs, fixing issues, and refining in real time.
+- Used AI-assisted tools to bring the idea to life  
+- Described what I wanted and iterated based on results  
+- Tested outputs and fixed issues in real time  
+- No tutorials or step-by-step guides  
 
-No step-by-step tutorial. No hand-holding.
-
-Just a problem, the tools, and persistence.
-
-That’s the same mindset I bring to IT support:
-- break problems down  
-- test solutions  
-- keep going until it works  
+**Approach:**
+- Break problems down  
+- Test solutions  
+- Keep iterating until it works  
 
 </details>
 
@@ -58,7 +56,9 @@ That’s the same mindset I bring to IT support:
 - 🎯 Generates **custom workouts** based on goals, equipment, time, and fitness level  
 - 📸 Shows **correct technique vs common mistakes** side by side  
 - 🤖 Includes a **live AI coach** that checks form in real time  
-- 🎨 Visual feedback system — screen turns **blue (correct)** or **red (incorrect)**  
+- 🎨 Visual feedback system:  
+  - Blue = correct form  
+  - Red = incorrect form  
 - 📊 Tracks **progress over time** with logs and performance tracking  
 
 </details>
@@ -69,13 +69,14 @@ That’s the same mindset I bring to IT support:
 <summary>🎯 Why this matters</summary>
 <br>
 
-I didn’t build this for a grade, I built it to solve a real problem.
+- Built to solve a **real problem**, not for a grade  
+- Demonstrates how I think through problems and solutions  
+- Focused on practical, usable outcomes  
 
-This project reflects how I think:
-- identify gaps  
-- design practical solutions  
-- build and refine until it works  
-
-That’s exactly how I approach IT support, not just fixing issues, but understanding and solving them properly.
+**This reflects how I approach IT support:**
+- Identify the issue  
+- Understand the root cause  
+- Apply and test solutions  
+- Follow through until resolved  
 
 </details>
