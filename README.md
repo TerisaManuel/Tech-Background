@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=EA4B71&center=true&vCenter=true&width=500&lines=Real+Projects.+Real+Skills.+Real+Ready.;IT+Support.+AI.+Automation.+Lets+Go.;Problem+Finder.+Problem+Solver.;Turning+Curiosity+Into+Capability;I+Don%27t+Just+Learn+Tech+%E2%80%94+I+Build+With+It)](https://git.io/typing-svg)
 
-# My Tech Portfolio
+# Tech Portfolio
 
 **Aspiring IT Support Professional · Auckland, New Zealand**
 
