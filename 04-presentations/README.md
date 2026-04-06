@@ -22,7 +22,7 @@ applied throughout.
 
 ## 🤖 See the Full AI Solution in Action
 
-[![AI Business Case Study Presentation](./AI%20BUSINESS%20CASE%20STUDY.png)](https://www.loom.com/share/32edc0abafea40b59b416599f12d1e10)
+[![AI Business Case Study Presentation](./AI%20BUSINESS%20CASE%20STUDY.png)](https://www.loom.com/share/bd798a799fcc47fa93fd469344a44ee9)
 
 <details>
 <summary>🌏 See how AI helped a charity do more with less</summary>
