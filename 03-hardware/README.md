@@ -74,6 +74,4 @@ A laptop on a SOHO network could not communicate with other devices — caused b
 
 ---
 
-## 💡 Key Takeaway
 
-I didn't just read about this stuff. I did it, documented it, and I can explain exactly why each step matters — which is exactly what IT support requires.
