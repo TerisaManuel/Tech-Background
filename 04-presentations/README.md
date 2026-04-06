@@ -8,7 +8,11 @@ This section documents my AI case study, a group project where we were given a r
 
 > *Before anything was built, we had to think. This video shows exactly how.*
 
-[![AI Business Case Study — Brainstorm & Thinking Process](./BRAINSTORMM.png)](https://www.loom.com/share/ef5c178bab4d4df0963f3ef8673e05f2)
+<p align="center">
+  <a href="https://www.loom.com/share/ef5c178bab4d4df0963f3ef8673e05f2">
+    <img src="./BRAINSTORMM.png" width="45%" alt="AI Business Case Study — Brainstorm & Thinking Process">
+  </a>
+</p>
 
 > 🎬 *Click to watch — 20 mins*
 
@@ -20,11 +24,11 @@ A global charity needed to grow but had no marketing team, no budget, and only t
 
 This video walks through how we approached the problem before touching a single tool:
 
-- How we ran a Q&A to understand the client's real situation
-- How we mapped out three core problems: inconsistent posting, missed tender applications, and no data visibility
-- How we used an LLM to pressure-test our thinking and fill gaps, running each workstream separately to avoid AI errors
-- How we applied our own judgement to decide what to build now vs later
-- How the manual workflows became the blueprint for the automated solution
+- How we ran a Q&A to understand the client's real situation  
+- How we mapped out three core problems: inconsistent posting, missed tender applications, and no data visibility  
+- How we used an LLM to pressure-test our thinking and fill gaps, running each workstream separately to avoid AI errors  
+- How we applied our own judgement to decide what to build now vs later  
+- How the manual workflows became the blueprint for the automated solution  
 
 </details>
 
@@ -34,7 +38,11 @@ This video walks through how we approached the problem before touching a single 
 
 > *Three workflows. One system. Built to solve a real marketing problem for a resource-strapped charity.*
 
-[![AI Business Case Study Presentation](./AI%20BUSINESS%20CASE%20STUDY.png)](https://www.loom.com/share/bd798a799fcc47fa93fd469344a44ee9)
+<p align="center">
+  <a href="https://www.loom.com/share/bd798a799fcc47fa93fd469344a44ee9">
+    <img src="./AI BUSINESS CASE STUDY.png" width="45%" alt="AI Business Case Study Presentation">
+  </a>
+</p>
 
 > 🎬 *Click to watch — 13 mins*
 
@@ -42,7 +50,7 @@ This video walks through how we approached the problem before touching a single 
 <summary>📋 What we built and why</summary>
 <br>
 
-**The Problem:**
+**The Problem:**  
 A global charity operating across Australia and New Zealand with no marketing team, no agency budget, and staff already stretched delivering programmes. Posting was inconsistent, tender applications were written from scratch every time, and there was no visibility into what was working.
 
 **The Solution — three AI-powered workflows:**
@@ -53,7 +61,7 @@ A global charity operating across Australia and New Zealand with no marketing te
 | 📄 Tender & Awards Applications | New tender triggers n8n, pulls past examples, AI drafts application, human reviews, sends via Outlook |
 | 📊 Data & Analytics | Schedule trigger pulls platform data, AI Studio analyses it, report delivered to staff automatically |
 
-**Tools used:** n8n · Google AI Studio · NotebookLM · Agentic AI · Microsoft 365 · Stitch · Azure OpenAI
+**Tools used:** n8n · Google AI Studio · NotebookLM · Agentic AI · Microsoft 365 · Stitch · Azure OpenAI  
 
 **My role:** Part of a four-person team. Contributed to the brainstorm, workflow design, and the analytics workstream.
 
