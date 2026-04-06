@@ -20,7 +20,7 @@ Vibe coding is building apps using AI-assisted tools, you describe what you want
 <summary>💡 The problem I identified</summary>
 <br>
 
-> I enjoy working out at home but I could never tell if I was doing exercises correctly. Following YouTube videos and hoping for the best isn't good enough, bad form means bad results and injury risk. So I built something that actually fixed that.
+I enjoy working out at home but I could never tell if I was doing exercises correctly. Following YouTube videos and hoping for the best isn't good enough, bad form means bad results and injury risk. So I built something that actually fixed that.
 
 </details>
 
