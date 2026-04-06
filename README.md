@@ -24,7 +24,7 @@ Hey, I'm Terisa 👋
 
 A Cook Island woman born and raised in Auckland, NZ. I come from a hospitality background — and I made a deliberate decision to pivot into tech. Not because it was easy, but because I wanted to challenge myself, grow in a real direction, and build a career I'm genuinely excited about.
 
-I got into IT because I love helping people and I love solving problems. Those two things have always been my thing — whether it was behind a bar or now behind a screen.
+I got into IT because I love helping people and I love solving problems. Those two things have always been my thing,  whether it was behind a bar or now behind a screen.
 
 > *"The moment IT really clicked for me was sitting in class, staring at a problem I had no idea how to solve — and then figuring it out anyway. That feeling? That is exactly why I am here."*
 
