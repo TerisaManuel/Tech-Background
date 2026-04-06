@@ -10,73 +10,78 @@ Vibe coding is building apps using AI-assisted tools — you describe what you w
 
 > AI-powered home workout app built to solve a real problem I faced.
 
-[![Homefit App](./HOMEFITT.png)](https://www.loom.com/share/bd798a799fcc47fa93fd469344a44ee9)
+<p align="center">
+  <a href="https://www.loom.com/share/bd798a799fcc47fa93fd469344a44ee9">
+    <img src="./HOMEFITT.png" width="80%">
+  </a>
+</p>
 
 > 🎬 *Click the image to watch the full walkthrough (7 min demo)*
 
 ---
 
+### ⚡ Quick Summary
+- 🛠️ Built independently with **Google AI Studio**  
+- 🧠 Solves real-world problem: home workouts & form correction  
+- 🤖 Features **AI-powered live feedback**  
+- ✅ Prototype fully functional & tested  
+
+---
+
 <details>
-<summary>💡 The problem</summary>
+<summary>💡 The Problem</summary>
 <br>
 
-- I enjoy working out at home, but I didn’t know if I was doing exercises correctly  
-- Following YouTube videos wasn’t reliable  
-- Poor form leads to bad results and higher injury risk  
-- I needed something that helped me **do exercises properly**, not just follow along  
+- I enjoy working out at home but couldn’t tell if I was doing exercises correctly  
+- Following YouTube videos wasn’t reliable — poor form leads to bad results and injury risk  
+- Needed a tool that actually **guided me in real time** and tracked progress  
 
 </details>
 
 ---
 
 <details>
-<summary>🛠️ How I built it</summary>
+<summary>🛠️ How I Built It</summary>
 <br>
 
-**Built with:** Google AI Studio
+**Tools & Approach:**
+- Google AI Studio + AI-assisted design tools  
+- Iterative problem-solving: describe → test → refine → repeat  
+- No tutorials, no hand-holding — fully independent build  
 
-- Used AI-assisted tools to bring the idea to life  
-- Described what I wanted and iterated based on results  
-- Tested outputs and fixed issues in real time  
-- No tutorials or step-by-step guides  
-
-**Approach:**
-- Break problems down  
+**Mindset applied:**
+- Break down problems  
 - Test solutions  
-- Keep iterating until it works  
+- Iterate until functional  
 
 </details>
 
 ---
 
 <details>
-<summary>⚡ Key features</summary>
+<summary>⚡ Key Features</summary>
 <br>
 
 - 🎯 Generates **custom workouts** based on goals, equipment, time, and fitness level  
 - 📸 Shows **correct technique vs common mistakes** side by side  
-- 🤖 Includes a **live AI coach** that checks form in real time  
-- 🎨 Visual feedback system:  
-  - Blue = correct form  
-  - Red = incorrect form  
-- 📊 Tracks **progress over time** with logs and performance tracking  
+- 🤖 Includes **live AI coach** that scans your form in real time  
+- 🎨 Visual feedback: blue = correct, red = incorrect  
+- 📊 Tracks **progress over time** with logs & Hall of Fame  
 
 </details>
 
 ---
 
 <details>
-<summary>🎯 Why this matters</summary>
+<summary>🎯 Results & Impact</summary>
 <br>
 
-- Built to solve a **real problem**, not for a grade  
-- Demonstrates how I think through problems and solutions  
-- Focused on practical, usable outcomes  
+- ✅ Prototype fully functional & user-tested  
+- ✅ AI coach provides **instant feedback**, improving form and reducing injury risk  
+- ✅ Allows users to track **real progress over time**  
+- ✅ Demonstrates ability to **identify problems, design solutions, and execute independently**  
 
-**This reflects how I approach IT support:**
-- Identify the issue  
-- Understand the root cause  
-- Apply and test solutions  
-- Follow through until resolved  
+**Why it matters:**  
+- Same mindset applied to IT support: solve real problems, think critically, and follow through until resolution  
 
 </details>
