@@ -73,11 +73,13 @@ I didn't take the traditional path into tech — I built my way in.
 
 ---
 
-## 🏅 Certifications
+<details>
+<summary>🏅 Certifications</summary>
+<br>
 
-| Certificate | Issued By | Date |
-|------------|-----------|------|
-| 📄 **[Foundational IT & Cyber Security](./certifications/)** | Academy XI / Rise by Talent | April 2025 |
+* 📄 **Foundational IT & Cyber Security** — Academy XI / Rise by Talent, April 2025
+
+</details>
 
 ---
 
