@@ -98,7 +98,7 @@ I didn't take the traditional path into tech — I built my way in.
 <summary>💬 Let's connect</summary>
 <br>
 
-* 🐙 GitHub: https://github.com/TerisaManuel
-* 💼 LinkedIn: https://www.linkedin.com/in/terisa-manuel-03b16a3b1/
+* 🐙 **GitHub:** [TerisaManuel](https://github.com/TerisaManuel)
+* 💼 **LinkedIn:** [Terisa Manuel](https://www.linkedin.com/in/terisa-manuel-03b16a3b1/)
 
 </details>
