@@ -78,7 +78,3 @@ Vibe coding is building apps using AI-assisted tools, you describe what you want
 
 ---
 
-## 💡 Key Takeaway
-- Independently identified a real problem and built a working solution  
-- Can explain every decision and tool used  
-- Demonstrates **practical thinking, initiative, and follow-through**
