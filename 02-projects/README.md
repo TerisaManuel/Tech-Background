@@ -33,7 +33,7 @@ Vibe coding is building apps using AI-assisted tools, you describe what you want
 <br>
 
 - I enjoy working out at home but couldn’t tell if I was doing exercises correctly  
-- Following YouTube videos wasn’t reliable — poor form leads to bad results and injury risk  
+- Following YouTube videos wasn’t reliable, poor form leads to bad results and injury risk  
 - Needed a tool that actually **guided me in real time** and tracked progress  
 
 </details>
