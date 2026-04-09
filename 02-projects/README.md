@@ -1,6 +1,6 @@
 # 🎨 AI-Built Projects (Vibe Coding)
 
-Vibe coding is building apps using AI-assisted tools — you describe what you want, and the tools help bring it to life.
+Vibe coding is building apps using AI-assisted tools, you describe what you want, and the tools help bring it to life.
 
 **I had an idea. I figured out the tools. I built it.**
 
