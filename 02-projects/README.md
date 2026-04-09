@@ -66,6 +66,8 @@ Vibe coding is building apps using AI-assisted tools, you describe what you want
 
 </details>
 
+---
+
 <details>
 <summary>🎯 Results & Impact</summary>
 <br>
