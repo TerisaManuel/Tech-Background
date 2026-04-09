@@ -4,10 +4,11 @@ Vibe coding is building apps using AI-assisted tools, you describe what you want
 ---
 ## 🏋️ Personal Project — Homefit App
 > AI-powered home workout app built to solve a real problem I faced.
-<a href="https://www.loom.com/share/bd798a799fcc47fa93fd469344a44ee9">
-  <img src="./HOMEFITT.png" width="45%" alt="Homefit App Demo">
-</a>
-
+<p align="center">
+  <a href="https://www.loom.com/share/bd798a799fcc47fa93fd469344a44ee9">
+    <img src="./HOMEFITT.png" width="45%" alt="Homefit App Demo">
+  </a>
+</p>
 > 🎬 *Click the image to watch the full walkthrough (7 min demo)*
 ---
 ### ⚡ Quick Summary
@@ -19,8 +20,8 @@ Vibe coding is building apps using AI-assisted tools, you describe what you want
 <details>
 <summary>💡 The Problem</summary>
 <br>
-- I enjoy working out at home but couldn't tell if I was doing exercises correctly  
-- Following YouTube videos wasn't reliable, poor form leads to bad results and injury risk  
+- I enjoy working out at home but couldn’t tell if I was doing exercises correctly  
+- Following YouTube videos wasn’t reliable, poor form leads to bad results and injury risk  
 - Needed a tool that actually **guided me in real time** and tracked progress  
 </details>
 ---
