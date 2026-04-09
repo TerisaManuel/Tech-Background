@@ -58,4 +58,27 @@ Vibe coding is building apps using AI-assisted tools, you describe what you want
 - 📸 Shows **correct technique vs common mistakes** side by side  
 - 🤖 Includes **live AI coach** that scans your form in real time  
 - 🎨 Visual feedback: blue = correct, red = incorrect  
-- 📊 Tracks **progress over time** with logs
+- 📊 Tracks **progress over time** with logs & Hall of Fame  
+
+</details>
+
+<details>
+<summary>🎯 Results & Impact</summary>
+<br>
+
+- ✅ Prototype fully functional & user-tested  
+- ✅ AI coach provides **instant feedback**, improving form and reducing injury risk  
+- ✅ Allows users to track **real progress over time**  
+- ✅ Demonstrates ability to **identify problems, design solutions, and execute independently**  
+
+**Why it matters:**  
+- Same mindset applied to IT support: solve real problems, think critically, and follow through until resolution  
+
+</details>
+
+---
+
+## 💡 Key Takeaway
+- Independently identified a real problem and built a working solution  
+- Can explain every decision and tool used  
+- Demonstrates **practical thinking, initiative, and follow-through**
