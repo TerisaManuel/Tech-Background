@@ -64,6 +64,8 @@ Real hands-on work. Not theory. Every task here was completed and documented, de
 - 🔎 Diagnosed and resolved a default gateway issue  
 - ✅ Validated connectivity using real-world troubleshooting methods  
 
+---
+
 <details>
 <summary>🔎 Problem, Process, & Fix</summary>
 <br>
