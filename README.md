@@ -80,7 +80,7 @@ I didn't take the traditional path into tech — I built my way in.
 * 📄 **Foundational IT & Cyber Security** — Academy XI / Rise by Talent, April 2025
 
 <details>
-<summary>🎓 Partial Bachelor's Coursework — University of Auckland</summary>
+<summary>🎓 Bachelor of Science majoring in Psychology (1 year completed) — University of Auckland</summary>
 <br>
 
 | Paper | Relevance to IT |
