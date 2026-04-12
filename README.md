@@ -74,11 +74,27 @@ I didn't take the traditional path into tech — I built my way in.
 ---
 
 <details>
-<summary>🏅 Certifications</summary>
+<summary>🏅 Certifications & Education</summary>
 <br>
 
 * 📄 **Foundational IT & Cyber Security** — Academy XI / Rise by Talent, April 2025
 
+<details>
+<summary>🎓 Partial Bachelor's Coursework — University of Auckland</summary>
+<br>
+
+| Paper | Relevance to IT |
+|-------|----------------|
+| **STATS 101** – Introduction to Statistics | Strengthened data literacy, analytical thinking, and accuracy when working with technical information |
+| **PSYCH 108** – Individual, Social and Applied Psychology | Built understanding of user behaviour and communication styles in support environments |
+| **PSYCH 109** – Mind, Brain and Behaviour | Developed logical reasoning and step-by-step problem-solving approaches |
+| **EDUC 121G** – How People Learn | Gained insight into how users absorb new information and instructions |
+| **ASTRO 100** – Planets, Stars and Galaxies | Developed structured scientific thinking and the ability to interpret complex systems and data |
+| **EDUC 223** – Educational Psychology | Explored how people learn, retain information, and respond to different instructional approaches |
+| **EXERSCI 105** – Exercise Prescription | Applied evidence-based frameworks to assess individual needs and design tailored, goal-oriented plans |
+| **PSYCH 204** – Social Psychology | Examined group behaviour, interpersonal influence, and communication dynamics across organisational settings |
+
+</details>
 </details>
 
 ---
