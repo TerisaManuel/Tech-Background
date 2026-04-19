@@ -26,15 +26,15 @@
 <summary>💫 Who I am</summary>
 <br>
 
-Hey, I'm Terisa 👋
+Hey, I’m Terisa 👋
+I’m a proud Cook Islands woman from Papakura who found her way into tech by following curiosity and backing myself. I started by pulling things apart, fixing what I could, and asking the right questions when I couldn’t.
 
-I transitioned from hospitality into tech and never looked back.
+My path into IT came from small moments: helping someone with their device, figuring out why something wasn’t working, and realising I actually enjoyed the challenge. The moment it really clicked was sitting in front of a problem I didn’t understand and deciding to figure it out anyway.
 
-I got into IT because I genuinely enjoy solving problems and helping people. That's always been my thing, whether face-to-face in hospitality or now working through technical challenges.
+Hospitality taught me to stay calm under pressure and look after people. Tech taught me to think logically and break things down step by step. Those two worlds shaped how I work today: steady, people first, and always curious.
+I carry my Cook Islands values into everything I do, especially respect, service, and doing things properly the first time.
 
-> *"The moment IT really clicked for me was sitting in front of a problem I didn't understand — and figuring it out anyway."*
-
-That's what drives me.
+For me, IT isn’t just a career shift. It’s a chance to represent my community and show that Pasifika belong in tech
 
 </details>
 
