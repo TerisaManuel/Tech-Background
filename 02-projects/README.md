@@ -9,7 +9,7 @@ Vibe coding is building apps using AI-assisted tools, you describe what you want
 > AI-powered home workout app built to solve a real problem I faced.
 
 <p align="center">
-  <a href="https://www.loom.com/share/bd798a799fcc47fa93fd469344a44ee9">
+  <a href="https://www.loom.com/share/bd798a799fcc47fa93fd469344a44ee9](https://www.loom.com/share/32edc0abafea40b59b416599f12d1e10">
     <img src="./HOMEFITT.png" width="45%" alt="Homefit App Demo">
   </a>
 </p>
